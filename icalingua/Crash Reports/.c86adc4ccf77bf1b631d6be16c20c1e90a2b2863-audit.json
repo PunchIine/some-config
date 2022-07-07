@@ -1,0 +1,34 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 14
+    },
+    "auditLog": "/home/lazy/.config/icalingua/Crash Reports/.c86adc4ccf77bf1b631d6be16c20c1e90a2b2863-audit.json",
+    "files": [
+        {
+            "date": 1656998582086,
+            "name": "/home/lazy/.config/icalingua/Crash Reports/error-report-2022-07-05-13.log",
+            "hash": "4adcb847bd9a4beba9bd8f2a14c2136f"
+        },
+        {
+            "date": 1657019010639,
+            "name": "/home/lazy/.config/icalingua/Crash Reports/error-report-2022-07-05-19.log",
+            "hash": "423adc6c59c0d985b2a50ca55534b34e"
+        },
+        {
+            "date": 1657087693624,
+            "name": "/home/lazy/.config/icalingua/Crash Reports/error-report-2022-07-06-14.log",
+            "hash": "a9e4447e8ed314071a79e7f032245173"
+        },
+        {
+            "date": 1657109074906,
+            "name": "/home/lazy/.config/icalingua/Crash Reports/error-report-2022-07-06-20.log",
+            "hash": "d2eff55730f9b9dbede78753103354fb"
+        },
+        {
+            "date": 1657118294492,
+            "name": "/home/lazy/.config/icalingua/Crash Reports/error-report-2022-07-06-22.log",
+            "hash": "1d1b3fa3b95941237546ce232e8c6d60"
+        }
+    ]
+}

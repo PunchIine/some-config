@@ -1,0 +1,38 @@
+privateKey: 0123456789abcdef0123456789abcdef0123456789abcdef0123456789abcdef
+server: ""
+account:
+  mdbConnStr: mongodb://localhost
+  rdsHost: 127.0.0.1
+  storageType: sqlite
+  sqlHost: 127.0.0.1
+  sqlUsername: ""
+  sqlPassword: ""
+  sqlDatabase: ""
+  username: 811735602
+  password: d8a8165a38715affc0e58c813fc0fcfd
+  protocol: 5
+  autologin: true
+  onlineStatus: 11
+priority: 3
+aria2:
+  enabled: false
+  host: 127.0.0.1
+  port: 6800
+  secure: false
+  secret: ""
+  path: /jsonrpc
+darkTaskIcon: false
+winSize:
+  height: 1000
+  width: 1440
+  max: false
+socketIo: ""
+adapter: oicq
+fetchHistoryOnChatOpen: false
+lastUsedStickerType: remote
+keyToSendMessage: Enter
+theme: auto
+updateCheck: false
+disableBridgeVersionCheck: false
+shortcuts: {}
+zoomFactor: 100
