@@ -1,0 +1,332 @@
+<project version="4">
+  <component name="BookmarksManager">
+    <option name="groups">
+      <GroupState>
+        <option name="name" value="Pluralistic-Inpainting" />
+      </GroupState>
+    </option>
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="-1" />
+  </component>
+  <component name="FileTypeUsageLocalSummary">
+    <fileType name="Markdown">
+      <summary usageCount="1" lastUsed="1658158740530" />
+    </fileType>
+    <fileType name="Python">
+      <summary usageCount="45" lastUsed="1658402426307" />
+    </fileType>
+  </component>
+  <component name="IdeDocumentHistory">
+    <changedPaths>
+      <option value="$PROJECT_DIR$/model/pluralistic_model.py" />
+      <option value="$PROJECT_DIR$/gui/ui_model.py" />
+      <option value="$PROJECT_DIR$/../trans.py" />
+    </changedPaths>
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" />
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Pluralistic-Inpainting" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Pluralistic-Inpainting" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Pluralistic-Inpainting" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Pluralistic-Inpainting" type="462c0819:PsiDirectoryNode" />
+              <item name="model" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="RunConfigurationStartHistory">
+    <history>
+      <element setting="Python.trans" executorId="Run" />
+      <element setting="Python.ui_main" executorId="Run" />
+      <element setting="Python.train" executorId="Debug" />
+      <element setting="Python.train" executorId="Run" />
+    </history>
+  </component>
+  <component name="TerminalArrangementManager">
+    <option name="myTabStates">
+      <TerminalTabState tabName="Local" currentWorkingDirectory="$PROJECT_DIR$" commandHistoryFileName="Pluralistic-Inpainting-history" />
+    </option>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="11853000" />
+  </component>
+  <component name="ToolWindowManager">
+    <layout>
+      <window_info id="Bookmarks" order="0" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="1" visible="true" weight="0.16281374" />
+      <window_info id="Learn" order="2" />
+      <window_info id="Structure" order="3" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="0" weight="0.32948294" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" show_stripe_button="false" weight="0.4372937" />
+      <window_info anchor="bottom" id="Debug" order="3" visible="true" weight="0.22277227" />
+      <window_info anchor="bottom" id="Python Packages" order="4" />
+      <window_info anchor="bottom" id="TODO" order="5" />
+      <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
+      <window_info anchor="bottom" id="Python Console" order="7" />
+      <window_info anchor="bottom" id="Problems View" order="8" weight="0.32948294" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.32948294" />
+      <window_info anchor="bottom" id="Endpoints" order="10" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Services" order="11" />
+      <window_info anchor="right" id="Remote Host" order="0" />
+      <window_info anchor="right" id="Database" order="1" />
+      <window_info anchor="right" id="SciView" order="2" />
+      <window_info anchor="right" id="Notifications" order="3" weight="0.25" />
+    </layout>
+    <recentWindows>
+      <value>Project</value>
+      <value>Run</value>
+      <value>Version Control</value>
+      <value>Terminal</value>
+      <value>Problems View</value>
+      <value>Debug</value>
+      <value>Notifications</value>
+    </recentWindows>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="551" y="242" width="426" height="477" key="FileChooserDialogImpl" timestamp="1658402449145">
+      <screen x="0" y="0" width="1536" height="960" />
+    </state>
+    <state x="551" y="242" width="426" height="477" key="FileChooserDialogImpl/0.0.1536.960@0.0.1536.960" timestamp="1658402449145" />
+    <state width="1470" height="369" key="GridCell.Tab.0.bottom" timestamp="1658243519531">
+      <screen x="0" y="0" width="1536" height="960" />
+    </state>
+    <state width="1470" height="369" key="GridCell.Tab.0.bottom/0.0.1536.960@0.0.1536.960" timestamp="1658243519531" />
+    <state width="1470" height="369" key="GridCell.Tab.0.center" timestamp="1658243519531">
+      <screen x="0" y="0" width="1536" height="960" />
+    </state>
+    <state width="1470" height="369" key="GridCell.Tab.0.center/0.0.1536.960@0.0.1536.960" timestamp="1658243519531" />
+    <state width="1470" height="369" key="GridCell.Tab.0.left" timestamp="1658243519531">
+      <screen x="0" y="0" width="1536" height="960" />
+    </state>
+    <state width="1470" height="369" key="GridCell.Tab.0.left/0.0.1536.960@0.0.1536.960" timestamp="1658243519531" />
+    <state width="1470" height="369" key="GridCell.Tab.0.right" timestamp="1658243519531">
+      <screen x="0" y="0" width="1536" height="960" />
+    </state>
+    <state width="1470" height="369" key="GridCell.Tab.0.right/0.0.1536.960@0.0.1536.960" timestamp="1658243519531" />
+    <state width="1470" height="335" key="GridCell.Tab.1.bottom" timestamp="1658195400317">
+      <screen x="0" y="0" width="1536" height="960" />
+    </state>
+    <state width="1470" height="335" key="GridCell.Tab.1.bottom/0.0.1536.960@0.0.1536.960" timestamp="1658195400317" />
+    <state width="1470" height="335" key="GridCell.Tab.1.center" timestamp="1658195400317">
+      <screen x="0" y="0" width="1536" height="960" />
+    </state>
+    <state width="1470" height="335" key="GridCell.Tab.1.center/0.0.1536.960@0.0.1536.960" timestamp="1658195400317" />
+    <state width="1470" height="335" key="GridCell.Tab.1.left" timestamp="1658195400317">
+      <screen x="0" y="0" width="1536" height="960" />
+    </state>
+    <state width="1470" height="335" key="GridCell.Tab.1.left/0.0.1536.960@0.0.1536.960" timestamp="1658195400317" />
+    <state width="1470" height="335" key="GridCell.Tab.1.right" timestamp="1658195400317">
+      <screen x="0" y="0" width="1536" height="960" />
+    </state>
+    <state width="1470" height="335" key="GridCell.Tab.1.right/0.0.1536.960@0.0.1536.960" timestamp="1658195400317" />
+    <state x="501" y="192" width="526" height="577" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1658240274633">
+      <screen x="0" y="0" width="1536" height="960" />
+    </state>
+    <state x="501" y="192" width="526" height="577" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1536.960@0.0.1536.960" timestamp="1658240274633" />
+    <state width="600" height="400" key="javadoc.popup" timestamp="1658158763565">
+      <screen x="0" y="0" width="1536" height="960" />
+    </state>
+    <state width="600" height="400" key="javadoc.popup/0.0.1536.960@0.0.1536.960" timestamp="1658158763565" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../.conda/envs/Artical-GAN/lib/python3.8/site-packages/torch/cuda/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="117">
+          <caret line="216" selection-start-line="216" selection-end-line="216" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/options/base_options.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="560">
+          <caret line="20" column="36" selection-start-line="20" selection-start-column="36" selection-end-line="20" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/options/train_options.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="8" column="71" selection-start-line="8" selection-start-column="71" selection-end-line="8" selection-end-column="71" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dataloader/data_loader.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="11" column="61" selection-start-line="11" selection-start-column="61" selection-end-line="11" selection-end-column="61" />
+          <folding>
+            <element signature="e#0#32#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dataloader/image_folder.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="13" column="22" selection-start-line="13" selection-start-column="22" selection-end-line="13" selection-end-column="22" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/train.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="385">
+          <caret line="15" column="20" selection-start-line="15" selection-start-column="20" selection-end-line="15" selection-end-column="20" />
+          <folding>
+            <element signature="e#0#11#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/model/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="9" column="28" selection-start-line="9" selection-start-column="28" selection-end-line="9" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../.conda/envs/Artical-GAN/lib/python3.8/importlib/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3875">
+          <caret line="126" column="31" selection-start-line="126" selection-start-column="31" selection-end-line="126" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/model/base_model.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3920">
+          <caret line="116" column="26" selection-start-line="116" selection-start-column="26" selection-end-line="116" selection-end-column="26" />
+          <folding>
+            <element signature="e#0#17#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/model/network.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2065">
+          <caret line="61" column="34" selection-start-line="61" selection-start-column="34" selection-end-line="61" selection-end-column="34" />
+          <folding>
+            <element signature="e#0#28#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/model/pluralistic_model.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1855">
+          <caret line="57" column="22" selection-start-line="57" selection-start-column="22" selection-end-line="57" selection-end-column="22" />
+          <folding>
+            <element signature="e#0#12#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#32#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ui_main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="7" column="36" selection-start-line="7" selection-start-column="36" selection-end-line="7" selection-end-column="36" />
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gui/ui_model.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="7070">
+          <caret line="212" column="48" selection-start-line="212" selection-start-column="48" selection-end-line="212" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/model/base_function.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="344" selection-start-line="344" selection-end-line="344" />
+          <folding>
+            <element signature="e#0#12#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../.conda/envs/Artical-GAN/lib/python3.8/codecs.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="321" selection-start-line="321" selection-end-line="321" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../sim_lang.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="35">
+          <caret line="5" column="22" selection-start-line="5" selection-start-column="22" selection-end-line="5" selection-end-column="22" />
+          <folding>
+            <element signature="e#0#66#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../trans.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="3" column="55" lean-forward="true" selection-start-line="3" selection-start-column="55" selection-end-line="3" selection-end-column="55" />
+          <folding>
+            <element signature="e#0#13#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

@@ -1,0 +1,19 @@
+{
+    "autoPlay": false,
+    "autoSign": false,
+    "bitRate": "l",
+    "bitRateDownload": "ex",
+    "filterRcmd": false,
+    "startupPage": "index",
+    "windowBorder": true,
+    "windowZoom": null,
+    "showTrayIcon": false,
+    "trayIconVariety": "light",
+    "exitOnWindowClose": true,
+    "minimizeOnStartup": false,
+    "themePrimaryColor": "#84ffff",
+    "themeSecondaryColor": "#ffff8d",
+    "themeVariety": "auto",
+    "autoReplacePlaylist": false,
+    "lyricTranslation": "translation"
+}

@@ -1,0 +1,52 @@
+[2022-07-07 21:05:02.882] [sharedprocess] [info] Starting worker process with pid 3050 (type: fileWatcher, window: 1).
+[2022-07-07 21:05:23.981] [sharedprocess] [info] Getting Manifest... formulahendry.auto-complete-tag
+[2022-07-07 21:05:24.331] [sharedprocess] [info] Installing extension: formulahendry.auto-complete-tag
+[2022-07-07 21:05:24.697] [sharedprocess] [info] Getting Manifest... formulahendry.auto-close-tag
+[2022-07-07 21:05:26.083] [sharedprocess] [info] Getting Manifest... formulahendry.auto-rename-tag
+[2022-07-07 21:05:27.364] [sharedprocess] [info] Installing extension: formulahendry.auto-close-tag
+[2022-07-07 21:05:27.365] [sharedprocess] [info] Installing extension: formulahendry.auto-rename-tag
+[2022-07-07 21:05:30.758] [sharedprocess] [info] Downloaded extension: formulahendry.auto-close-tag /home/lazy/.config/Code - OSS/CachedExtensionVSIXs/formulahendry.auto-close-tag-0.5.14
+[2022-07-07 21:05:30.764] [sharedprocess] [info] Downloaded extension: formulahendry.auto-rename-tag /home/lazy/.config/Code - OSS/CachedExtensionVSIXs/formulahendry.auto-rename-tag-0.1.10
+[2022-07-07 21:05:30.879] [sharedprocess] [info] Extracted extension to /home/lazy/.vscode-oss/extensions/.d85a70c6-6cb6-43fd-bd1d-26fc9def199b: formulahendry.auto-close-tag
+[2022-07-07 21:05:30.886] [sharedprocess] [info] Renamed to /home/lazy/.vscode-oss/extensions/formulahendry.auto-close-tag-0.5.14
+[2022-07-07 21:05:30.889] [sharedprocess] [info] Extracting completed. formulahendry.auto-close-tag
+[2022-07-07 21:05:30.917] [sharedprocess] [info] Extracted extension to /home/lazy/.vscode-oss/extensions/.e905ad89-07a9-4198-a06c-3b380cfe85d5: formulahendry.auto-rename-tag
+[2022-07-07 21:05:30.923] [sharedprocess] [info] Renamed to /home/lazy/.vscode-oss/extensions/formulahendry.auto-rename-tag-0.1.10
+[2022-07-07 21:05:30.927] [sharedprocess] [info] Extracting completed. formulahendry.auto-rename-tag
+[2022-07-07 21:05:33.649] [sharedprocess] [info] Downloaded extension: formulahendry.auto-complete-tag /home/lazy/.config/Code - OSS/CachedExtensionVSIXs/formulahendry.auto-complete-tag-0.2.0
+[2022-07-07 21:05:33.666] [sharedprocess] [info] Extracted extension to /home/lazy/.vscode-oss/extensions/.cdce29e5-6fe2-48b2-854b-8c8082b57187: formulahendry.auto-complete-tag
+[2022-07-07 21:05:33.671] [sharedprocess] [info] Renamed to /home/lazy/.vscode-oss/extensions/formulahendry.auto-complete-tag-0.2.0
+[2022-07-07 21:05:33.672] [sharedprocess] [info] Extracting completed. formulahendry.auto-complete-tag
+[2022-07-07 21:05:33.674] [sharedprocess] [info] Extension installed successfully: formulahendry.auto-close-tag
+[2022-07-07 21:05:33.674] [sharedprocess] [info] Extension installed successfully: formulahendry.auto-rename-tag
+[2022-07-07 21:05:33.675] [sharedprocess] [info] Extension installed successfully: formulahendry.auto-complete-tag
+[2022-07-07 21:05:47.597] [sharedprocess] [info] Getting Manifest... yandeu.five-server
+[2022-07-07 21:05:48.406] [sharedprocess] [info] Installing extension: yandeu.five-server
+[2022-07-07 21:05:51.654] [sharedprocess] [info] Downloaded extension: yandeu.five-server /home/lazy/.config/Code - OSS/CachedExtensionVSIXs/yandeu.five-server-0.1.4
+[2022-07-07 21:05:52.776] [sharedprocess] [info] Extracted extension to /home/lazy/.vscode-oss/extensions/.51dd6f43-544a-4181-a187-4593af9f1a12: yandeu.five-server
+[2022-07-07 21:05:52.784] [sharedprocess] [info] Renamed to /home/lazy/.vscode-oss/extensions/yandeu.five-server-0.1.4
+[2022-07-07 21:05:52.786] [sharedprocess] [info] Extracting completed. yandeu.five-server
+[2022-07-07 21:05:52.787] [sharedprocess] [info] Extension installed successfully: yandeu.five-server
+[2022-07-07 21:06:59.123] [sharedprocess] [info] Worker process with pid 3050 terminated normally (type: fileWatcher, window: 1).
+[2022-07-07 21:07:00.239] [sharedprocess] [info] Starting worker process with pid 3208 (type: fileWatcher, window: 1).
+[2022-07-07 21:15:19.133] [sharedprocess] [info] Getting Manifest... equinusocio.vsc-material-theme
+[2022-07-07 21:15:19.854] [sharedprocess] [info] Installing extension: equinusocio.vsc-material-theme
+[2022-07-07 21:15:20.621] [sharedprocess] [info] Getting Manifest... equinusocio.vsc-community-material-theme
+[2022-07-07 21:15:22.261] [sharedprocess] [info] Getting Manifest... equinusocio.vsc-material-theme-icons
+[2022-07-07 21:15:22.804] [sharedprocess] [info] Installing extension: equinusocio.vsc-community-material-theme
+[2022-07-07 21:15:22.806] [sharedprocess] [info] Installing extension: equinusocio.vsc-material-theme-icons
+[2022-07-07 21:15:25.559] [sharedprocess] [info] Downloaded extension: equinusocio.vsc-community-material-theme /home/lazy/.config/Code - OSS/CachedExtensionVSIXs/equinusocio.vsc-community-material-theme-1.4.4
+[2022-07-07 21:15:25.586] [sharedprocess] [info] Extracted extension to /home/lazy/.vscode-oss/extensions/.84977ff3-a288-4d73-b30a-c69a5ed8dfb4: equinusocio.vsc-community-material-theme
+[2022-07-07 21:15:25.592] [sharedprocess] [info] Renamed to /home/lazy/.vscode-oss/extensions/equinusocio.vsc-community-material-theme-1.4.4
+[2022-07-07 21:15:25.593] [sharedprocess] [info] Extracting completed. equinusocio.vsc-community-material-theme
+[2022-07-07 21:15:28.535] [sharedprocess] [info] Downloaded extension: equinusocio.vsc-material-theme-icons /home/lazy/.config/Code - OSS/CachedExtensionVSIXs/equinusocio.vsc-material-theme-icons-2.3.1
+[2022-07-07 21:15:30.545] [sharedprocess] [info] Extracted extension to /home/lazy/.vscode-oss/extensions/.0e16900d-0876-4e66-b7b9-96b7a520ee42: equinusocio.vsc-material-theme-icons
+[2022-07-07 21:15:30.554] [sharedprocess] [info] Renamed to /home/lazy/.vscode-oss/extensions/equinusocio.vsc-material-theme-icons-2.3.1
+[2022-07-07 21:15:30.556] [sharedprocess] [info] Extracting completed. equinusocio.vsc-material-theme-icons
+[2022-07-07 21:15:33.234] [sharedprocess] [info] Downloaded extension: equinusocio.vsc-material-theme /home/lazy/.config/Code - OSS/CachedExtensionVSIXs/equinusocio.vsc-material-theme-33.5.0
+[2022-07-07 21:15:33.270] [sharedprocess] [info] Extracted extension to /home/lazy/.vscode-oss/extensions/.fc8e621a-87dc-46bf-bc75-5bb438fdd423: equinusocio.vsc-material-theme
+[2022-07-07 21:15:33.274] [sharedprocess] [info] Renamed to /home/lazy/.vscode-oss/extensions/equinusocio.vsc-material-theme-33.5.0
+[2022-07-07 21:15:33.276] [sharedprocess] [info] Extracting completed. equinusocio.vsc-material-theme
+[2022-07-07 21:15:33.277] [sharedprocess] [info] Extension installed successfully: equinusocio.vsc-community-material-theme
+[2022-07-07 21:15:33.277] [sharedprocess] [info] Extension installed successfully: equinusocio.vsc-material-theme-icons
+[2022-07-07 21:15:33.278] [sharedprocess] [info] Extension installed successfully: equinusocio.vsc-material-theme

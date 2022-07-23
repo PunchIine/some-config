@@ -40,15 +40,12 @@ font:
   size: 12
 
   normal:
-    # family: WenQuanYi Micro Hei Mono
     family: "MesloLGS NF"
     style: Regular
 
   bold:
-    #family: WenQuanYi Micro Hei Mono    
     family: "MesloLGS NF"
   italic:
-    #family: WenQuanYi Micro Hei Mono
     family: "MesloLGS NF"
 cursor:
   style: underline

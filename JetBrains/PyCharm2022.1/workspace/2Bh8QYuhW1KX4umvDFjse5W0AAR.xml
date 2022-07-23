@@ -1,0 +1,253 @@
+<project version="4">
+  <component name="BookmarksManager">
+    <option name="groups">
+      <GroupState>
+        <option name="name" value="CycleGAN-Music-Style-Transfer" />
+      </GroupState>
+    </option>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="-1">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$USER_HOME$/.conda/envs/Artical-GAN/lib/python3.8/site-packages/keras/utils/traceback_utils.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="115">
+              <caret line="66" selection-start-line="66" selection-end-line="66" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/typing.pyi">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="21917">
+              <caret line="712" column="50" selection-start-line="712" selection-start-column="50" selection-end-line="712" selection-end-column="50" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTypeUsageLocalSummary">
+    <fileType name="Markdown">
+      <summary usageCount="1" lastUsed="1657346942036" />
+    </fileType>
+    <fileType name="Python">
+      <summary usageCount="42" lastUsed="1657536688403" />
+    </fileType>
+    <fileType name="PythonStub">
+      <summary usageCount="2" lastUsed="1657535500849" />
+    </fileType>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>parser</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <changedPaths>
+      <option value="$PROJECT_DIR$/tf2_model.py" />
+      <option value="$PROJECT_DIR$/tf2_classifier.py" />
+      <option value="$PROJECT_DIR$/tf2_main.py" />
+    </changedPaths>
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" />
+    <panes>
+      <pane id="ProjectPane" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="RunConfigurationStartHistory">
+    <history>
+      <element setting="Python.tf2_main" executorId="Run" />
+      <element setting="Python.tf2_main" executorId="Debug" />
+      <element setting="Python.tf2_classifier" executorId="Debug" />
+      <element setting="Python.tf2_model" executorId="Run" />
+    </history>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="13343000" />
+  </component>
+  <component name="ToolWindowManager">
+    <layout>
+      <window_info id="Pull Requests" />
+      <window_info id="Bookmarks" order="0" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="1" visible="true" weight="0.13837516" />
+      <window_info id="Learn" order="2" />
+      <window_info id="Structure" order="3" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.40539053" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4306931" />
+      <window_info anchor="bottom" id="Python Packages" order="4" />
+      <window_info anchor="bottom" id="TODO" order="5" />
+      <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
+      <window_info anchor="bottom" id="Python Console" order="7" />
+      <window_info anchor="bottom" id="Problems View" order="8" weight="0.32948294" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Endpoints" order="10" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Services" order="11" />
+      <window_info anchor="right" id="Database" order="0" />
+      <window_info anchor="right" id="SciView" order="1" />
+      <window_info anchor="right" id="Notifications" order="2" weight="0.25" />
+    </layout>
+    <recentWindows>
+      <value>Project</value>
+      <value>Run</value>
+      <value>Debug</value>
+      <value>Notifications</value>
+      <value>Problems View</value>
+    </recentWindows>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="254" y="149" width="802" height="670" key="#Deployment" timestamp="1657370943328">
+      <screen x="0" y="0" width="1536" height="960" />
+    </state>
+    <state x="254" y="149" width="802" height="670" key="#Deployment/0.0.1536.960@0.0.1536.960" timestamp="1657370943328" />
+    <state x="0" y="141" width="918" height="679" key="#Options" timestamp="1657349628846">
+      <screen x="0" y="0" width="1536" height="960" />
+    </state>
+    <state x="0" y="141" width="918" height="679" key="#Options/0.0.1536.960@0.0.1536.960" timestamp="1657349628846" />
+    <state x="0" y="128" width="834" height="697" key="#SSH_Configurations" timestamp="1657349437540">
+      <screen x="0" y="0" width="1536" height="960" />
+    </state>
+    <state x="0" y="128" width="834" height="697" key="#SSH_Configurations/0.0.1536.960@0.0.1536.960" timestamp="1657349437540" />
+    <state x="0" y="127" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1657365317918">
+      <screen x="0" y="0" width="1536" height="960" />
+    </state>
+    <state x="0" y="127" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.960@0.0.1536.960" timestamp="1657365317918" />
+    <state x="449" y="242" width="426" height="477" key="FileChooserDialogImpl" timestamp="1657364597599">
+      <screen x="0" y="0" width="1536" height="960" />
+    </state>
+    <state x="449" y="242" width="426" height="477" key="FileChooserDialogImpl/0.0.1536.960@0.0.1536.960" timestamp="1657364597599" />
+    <state width="1470" height="363" key="GridCell.Tab.0.bottom" timestamp="1657529601628">
+      <screen x="0" y="0" width="1536" height="960" />
+    </state>
+    <state width="1470" height="363" key="GridCell.Tab.0.bottom/0.0.1536.960@0.0.1536.960" timestamp="1657529601628" />
+    <state width="1470" height="363" key="GridCell.Tab.0.center" timestamp="1657529601628">
+      <screen x="0" y="0" width="1536" height="960" />
+    </state>
+    <state width="1470" height="363" key="GridCell.Tab.0.center/0.0.1536.960@0.0.1536.960" timestamp="1657529601628" />
+    <state width="1470" height="363" key="GridCell.Tab.0.left" timestamp="1657529601628">
+      <screen x="0" y="0" width="1536" height="960" />
+    </state>
+    <state width="1470" height="363" key="GridCell.Tab.0.left/0.0.1536.960@0.0.1536.960" timestamp="1657529601628" />
+    <state width="1470" height="363" key="GridCell.Tab.0.right" timestamp="1657529601628">
+      <screen x="0" y="0" width="1536" height="960" />
+    </state>
+    <state width="1470" height="363" key="GridCell.Tab.0.right/0.0.1536.960@0.0.1536.960" timestamp="1657529601628" />
+    <state width="1470" height="363" key="GridCell.Tab.1.bottom" timestamp="1657529601628">
+      <screen x="0" y="0" width="1536" height="960" />
+    </state>
+    <state width="1470" height="363" key="GridCell.Tab.1.bottom/0.0.1536.960@0.0.1536.960" timestamp="1657529601628" />
+    <state width="1470" height="363" key="GridCell.Tab.1.center" timestamp="1657529601628">
+      <screen x="0" y="0" width="1536" height="960" />
+    </state>
+    <state width="1470" height="363" key="GridCell.Tab.1.center/0.0.1536.960@0.0.1536.960" timestamp="1657529601628" />
+    <state width="1470" height="363" key="GridCell.Tab.1.left" timestamp="1657529601628">
+      <screen x="0" y="0" width="1536" height="960" />
+    </state>
+    <state width="1470" height="363" key="GridCell.Tab.1.left/0.0.1536.960@0.0.1536.960" timestamp="1657529601628" />
+    <state width="1470" height="363" key="GridCell.Tab.1.right" timestamp="1657529601628">
+      <screen x="0" y="0" width="1536" height="960" />
+    </state>
+    <state width="1470" height="363" key="GridCell.Tab.1.right/0.0.1536.960@0.0.1536.960" timestamp="1657529601628" />
+    <state x="0" y="119" key="SettingsEditor" timestamp="1657365751173">
+      <screen x="0" y="0" width="1536" height="960" />
+    </state>
+    <state x="0" y="119" key="SettingsEditor/0.0.1536.960@0.0.1536.960" timestamp="1657365751173" />
+    <state x="501" y="192" width="526" height="577" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1657529585976">
+      <screen x="0" y="0" width="1536" height="960" />
+    </state>
+    <state x="501" y="192" width="526" height="577" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1536.960@0.0.1536.960" timestamp="1657529585976" />
+    <state x="431" y="280" key="ftp.server.browser" timestamp="1657365738613">
+      <screen x="0" y="0" width="1536" height="960" />
+    </state>
+    <state x="431" y="280" key="ftp.server.browser/0.0.1536.960@0.0.1536.960" timestamp="1657365738613" />
+    <state x="339" y="397" width="266" height="204" key="publish.login" timestamp="1657365755930">
+      <screen x="0" y="0" width="1536" height="960" />
+    </state>
+    <state x="339" y="397" width="266" height="204" key="publish.login/0.0.1536.960@0.0.1536.960" timestamp="1657365755930" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tf2_classifier.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1190">
+          <caret line="43" column="55" selection-start-line="43" selection-start-column="55" selection-end-line="43" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/typing.pyi">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="21917">
+          <caret line="712" column="50" selection-start-line="712" selection-start-column="50" selection-end-line="712" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tf2_model.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3780">
+          <caret line="117" column="44" selection-start-line="117" selection-start-column="44" selection-end-line="117" selection-end-column="44" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tf2_module.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1470">
+          <caret line="45" column="8" selection-start-line="45" selection-start-column="8" selection-end-line="45" selection-end-column="8" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/write_midi.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1890">
+          <caret line="55" column="6" selection-start-line="55" selection-start-column="6" selection-end-line="55" selection-end-column="6" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tf2_utils.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2121">
+          <caret line="3" column="16" selection-start-line="3" selection-start-column="16" selection-end-line="3" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tf2_main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="245">
+          <caret line="13" column="91" lean-forward="true" selection-start-line="13" selection-start-column="91" selection-end-line="13" selection-end-column="91" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.conda/envs/Artical-GAN/lib/python3.8/site-packages/keras/utils/traceback_utils.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="66" selection-start-line="66" selection-end-line="66" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

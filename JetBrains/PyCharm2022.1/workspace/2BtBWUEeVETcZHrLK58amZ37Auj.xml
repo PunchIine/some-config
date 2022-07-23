@@ -1,0 +1,154 @@
+<project version="4">
+  <component name="BookmarksManager">
+    <option name="groups">
+      <GroupState>
+        <option name="name" value="Pluralistic-Inpainting" />
+      </GroupState>
+    </option>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="-1">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/dataloader/data_loader.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1890">
+              <caret line="59" column="16" selection-start-line="59" selection-start-column="16" selection-end-line="59" selection-end-column="16" />
+              <folding>
+                <element signature="e#0#32#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/dataloader/image_folder.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1575">
+              <caret line="45" selection-start-line="45" selection-end-line="45" />
+              <folding>
+                <element signature="e#0#9#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTypeUsageLocalSummary">
+    <fileType name="Image">
+      <summary usageCount="2" lastUsed="1657715591797" />
+    </fileType>
+    <fileType name="Markdown">
+      <summary usageCount="1" lastUsed="1657715537681" />
+    </fileType>
+    <fileType name="Python">
+      <summary usageCount="4" lastUsed="1658011692487" />
+    </fileType>
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" />
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Pluralistic-Inpainting" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Pluralistic-Inpainting" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Pluralistic-Inpainting" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Pluralistic-Inpainting" type="462c0819:PsiDirectoryNode" />
+              <item name="datasets" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Pluralistic-Inpainting" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Pluralistic-Inpainting" type="462c0819:PsiDirectoryNode" />
+              <item name="evaluations" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Pluralistic-Inpainting" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Pluralistic-Inpainting" type="462c0819:PsiDirectoryNode" />
+              <item name="gui" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="1301000" />
+  </component>
+  <component name="ToolWindowManager">
+    <layout>
+      <window_info id="Bookmarks" order="0" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="1" visible="true" weight="0.25" />
+      <window_info id="Learn" order="2" />
+      <window_info id="Structure" order="3" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Python Packages" order="4" />
+      <window_info anchor="bottom" id="TODO" order="5" />
+      <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
+      <window_info anchor="bottom" id="Python Console" order="7" />
+      <window_info anchor="bottom" id="Problems View" order="8" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Endpoints" order="10" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Services" order="11" />
+      <window_info anchor="right" id="Remote Host" order="0" />
+      <window_info anchor="right" id="Database" order="1" />
+      <window_info anchor="right" id="SciView" order="2" />
+      <window_info anchor="right" id="Notifications" order="3" weight="0.25" />
+    </layout>
+    <recentWindows>
+      <value>Project</value>
+    </recentWindows>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="533" y="242" key="FileChooserDialogImpl" timestamp="1658011732316">
+      <screen x="0" y="0" width="1536" height="960" />
+    </state>
+    <state x="533" y="242" key="FileChooserDialogImpl/0.0.1536.960@0.0.1536.960" timestamp="1658011732316" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/datasets/celeba-hq/182839.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/datasets/celeba-hq/189551.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dataloader/data_loader.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1890">
+          <caret line="59" column="16" selection-start-line="59" selection-start-column="16" selection-end-line="59" selection-end-column="16" />
+          <folding>
+            <element signature="e#0#32#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dataloader/image_folder.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1575">
+          <caret line="45" selection-start-line="45" selection-end-line="45" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

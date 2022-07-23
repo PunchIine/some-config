@@ -1,0 +1,40 @@
+[2022-07-07 21:05:02.649] [exthost] [info] Extension host with pid 3006 started
+[2022-07-07 21:05:02.716] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2022-07-07 21:05:02.719] [exthost] [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+[2022-07-07 21:05:02.722] [exthost] [info] ExtensionService#_doActivateExtension vscode.ipynb, startup: true, activationEvent: '*'
+[2022-07-07 21:05:02.923] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+[2022-07-07 21:05:02.948] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2022-07-07 21:05:03.081] [exthost] [info] Eager extensions activated
+[2022-07-07 21:05:03.121] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+[2022-07-07 21:05:03.126] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2022-07-07 21:05:08.453] [exthost] [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:jsonc'
+[2022-07-07 21:05:08.456] [exthost] [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+[2022-07-07 21:05:08.481] [exthost] [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+[2022-07-07 21:05:33.846] [exthost] [info] ExtensionService#_doActivateExtension formulahendry.auto-close-tag, startup: false, activationEvent: '*'
+[2022-07-07 21:05:33.849] [exthost] [info] ExtensionService#_doActivateExtension formulahendry.auto-rename-tag, startup: false, activationEvent: '*'
+[2022-07-07 21:05:52.933] [exthost] [info] ExtensionService#_doActivateExtension yandeu.five-server, startup: false, activationEvent: '*'
+[2022-07-07 21:06:59.102] [exthost] [info] Extension host terminating: received terminate message from renderer
+[2022-07-07 21:06:59.119] [exthost] [info] Extension host with pid 3006 exiting with code 0
+[2022-07-07 21:07:00.913] [exthost] [info] Extension host with pid 3207 started
+[2022-07-07 21:07:00.913] [exthost] [info] Skipping acquiring lock for /home/lazy/.config/Code - OSS/User/workspaceStorage/4a8f3b555fed5074dfdcdf8399c16ba0.
+[2022-07-07 21:07:01.017] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2022-07-07 21:07:01.021] [exthost] [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*'
+[2022-07-07 21:07:01.023] [exthost] [info] ExtensionService#_doActivateExtension vscode.ipynb, startup: true, activationEvent: '*'
+[2022-07-07 21:07:01.026] [exthost] [info] ExtensionService#_doActivateExtension formulahendry.auto-close-tag, startup: true, activationEvent: '*'
+[2022-07-07 21:07:01.031] [exthost] [info] ExtensionService#_doActivateExtension formulahendry.auto-rename-tag, startup: true, activationEvent: '*'
+[2022-07-07 21:07:01.065] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2022-07-07 21:07:01.208] [exthost] [info] Eager extensions activated
+[2022-07-07 21:07:01.210] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+[2022-07-07 21:07:01.215] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2022-07-07 21:07:05.592] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: false, activationEvent: 'api', root cause: vscode.github
+[2022-07-07 21:07:05.618] [exthost] [info] ExtensionService#_doActivateExtension yandeu.five-server, startup: false, activationEvent: '*'
+[2022-07-07 21:07:14.794] [exthost] [info] ExtensionService#_doActivateExtension vscode.html-language-features, startup: false, activationEvent: 'onLanguage:html'
+[2022-07-07 21:08:15.954] [exthost] [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:jsonc'
+[2022-07-07 21:08:15.958] [exthost] [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+[2022-07-07 21:08:15.977] [exthost] [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+[2022-07-07 21:15:33.681] [exthost] [info] ExtensionService#_doActivateExtension equinusocio.vsc-material-theme-icons, startup: false, activationEvent: 'onStartupFinished'
+[2022-07-07 21:15:33.716] [exthost] [info] ExtensionService#_doActivateExtension Equinusocio.vsc-material-theme, startup: false, activationEvent: 'onStartupFinished'
+[2022-07-07 21:15:55.953] [exthost] [info] Extension host terminating: received terminate message from renderer
+[2022-07-07 21:15:55.981] [exthost] [error] Error: read ECONNRESET
+    at Pipe.onStreamRead (node:internal/stream_base_commons:220:20)
+[2022-07-07 21:15:55.983] [exthost] [info] Extension host with pid 3207 exiting with code 0

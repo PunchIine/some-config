@@ -1,0 +1,9 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="f32fb361-04e5-4bf9-971b-b5728e372e76" name="lazy@10.33.80.122:22 password">
+        <fileTransfer accessType="SFTP" host="10.33.80.122" port="22" sshConfigId="7a99dd14-a607-4f37-8bb8-f17f99d3d570" sshConfig="lazy@10.33.80.122:22 password" />
+      </webServer>
+    </option>
+  </component>
+</application>

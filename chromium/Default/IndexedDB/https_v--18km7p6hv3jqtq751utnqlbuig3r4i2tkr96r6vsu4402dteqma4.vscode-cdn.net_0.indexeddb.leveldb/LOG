@@ -1,0 +1,6 @@
+2022/07/18-15:53:20.909 120f Creating DB /home/lazy/.config/chromium/Default/IndexedDB/https_v--18km7p6hv3jqtq751utnqlbuig3r4i2tkr96r6vsu4402dteqma4.vscode-cdn.net_0.indexeddb.leveldb since it was missing.
+2022/07/18-15:53:20.917 120f Reusing MANIFEST /home/lazy/.config/chromium/Default/IndexedDB/https_v--18km7p6hv3jqtq751utnqlbuig3r4i2tkr96r6vsu4402dteqma4.vscode-cdn.net_0.indexeddb.leveldb/MANIFEST-000001
+2022/07/18-15:59:40.137 29b4 Level-0 table #5: started
+2022/07/18-15:59:40.141 29b4 Level-0 table #5: 14365 bytes OK
+2022/07/18-15:59:40.143 29b4 Delete type=0 #3
+2022/07/18-15:59:40.144 29b4 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

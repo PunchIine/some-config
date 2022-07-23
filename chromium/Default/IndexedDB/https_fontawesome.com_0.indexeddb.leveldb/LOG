@@ -1,3 +1,15 @@
-2022/07/06-18:10:36.205 23bc Reusing MANIFEST /home/lazy/.config/chromium/Default/IndexedDB/https_fontawesome.com_0.indexeddb.leveldb/MANIFEST-000001
-2022/07/06-18:10:36.205 23bc Recovering log #3
-2022/07/06-18:10:36.205 23bc Reusing old log /home/lazy/.config/chromium/Default/IndexedDB/https_fontawesome.com_0.indexeddb.leveldb/000003.log 
+2022/07/22-16:59:08.120 85b6 Reusing MANIFEST /home/lazy/.config/chromium/Default/IndexedDB/https_fontawesome.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/07/22-16:59:08.121 85b6 Recovering log #4
+2022/07/22-16:59:08.121 85b6 Reusing old log /home/lazy/.config/chromium/Default/IndexedDB/https_fontawesome.com_0.indexeddb.leveldb/000004.log 
+2022/07/22-16:59:18.755 85b7 Level-0 table #8: started
+2022/07/22-16:59:18.758 85b7 Level-0 table #8: 2132 bytes OK
+2022/07/22-16:59:18.761 85b7 Delete type=0 #4
+2022/07/22-16:59:18.761 85b7 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2022/07/22-16:59:18.761 85b7 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x01\x01\x02\x01\x05\x00s\x00t\x00a\x00t\x00e' @ 2120 : 1
+2022/07/22-16:59:18.761 85b7 Compacting 1@1 + 1@2 files
+2022/07/22-16:59:18.764 85b7 Generated table #9@1: 56 keys, 1178 bytes
+2022/07/22-16:59:18.764 85b7 Compacted 1@1 + 1@2 files => 1178 bytes
+2022/07/22-16:59:18.767 85b7 compacted to: files[ 0 0 1 0 0 0 0 ]
+2022/07/22-16:59:18.767 85b7 Delete type=2 #8
+2022/07/22-16:59:18.767 85b7 Delete type=2 #5
+2022/07/22-16:59:18.767 85b7 Manual compaction at level-1 from '\x00\x01\x01\x02\x01\x05\x00s\x00t\x00a\x00t\x00e' @ 2120 : 1 .. (end); will stop at (end)

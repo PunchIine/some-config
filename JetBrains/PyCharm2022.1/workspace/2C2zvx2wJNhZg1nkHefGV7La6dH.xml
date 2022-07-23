@@ -1,0 +1,127 @@
+<project version="4">
+  <component name="BookmarksManager">
+    <option name="groups">
+      <GroupState>
+        <option name="name" value="try" />
+      </GroupState>
+    </option>
+  </component>
+  <component name="FileEditorManager">
+    <leaf />
+  </component>
+  <component name="FileTypeUsageLocalSummary">
+    <fileType name="Python">
+      <summary usageCount="1" lastUsed="1658015703156" />
+    </fileType>
+  </component>
+  <component name="IdeDocumentHistory">
+    <changedPaths>
+      <option value="$PROJECT_DIR$/main.py" />
+    </changedPaths>
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" />
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="try" type="b2602c69:ProjectViewProjectNode" />
+              <item name="try" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="RunConfigurationStartHistory">
+    <history>
+      <element setting="Python.main" executorId="Run" />
+    </history>
+  </component>
+  <component name="TerminalArrangementManager">
+    <option name="myTabStates">
+      <TerminalTabState tabName="Local" currentWorkingDirectory="$PROJECT_DIR$" commandHistoryFileName="try-history" />
+    </option>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="3746000" />
+  </component>
+  <component name="ToolWindowManager">
+    <layout>
+      <window_info id="Bookmarks" order="0" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info id="Learn" order="0" />
+      <window_info id="Structure" order="0" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" show_stripe_button="false" weight="0.32948294" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Python Packages" order="4" />
+      <window_info anchor="bottom" id="TODO" order="4" />
+      <window_info anchor="bottom" id="Inspection" order="4" weight="0.4" />
+      <window_info anchor="bottom" id="Python Console" order="4" />
+      <window_info anchor="bottom" id="Problems View" order="4" weight="0.32948294" />
+      <window_info anchor="bottom" id="Terminal" order="4" visible="true" weight="0.23487347" />
+      <window_info anchor="bottom" id="Endpoints" order="4" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Services" order="4" />
+      <window_info anchor="right" id="Remote Host" order="0" />
+      <window_info anchor="right" id="Database" order="0" />
+      <window_info anchor="right" id="SciView" order="0" />
+      <window_info anchor="right" id="Notifications" order="0" weight="0.25" />
+    </layout>
+    <recentWindows>
+      <value>Terminal</value>
+      <value>Project</value>
+      <value>Run</value>
+      <value>Problems View</value>
+    </recentWindows>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="551" y="242" width="426" height="477" key="FileChooserDialogImpl" timestamp="1658018487562">
+      <screen x="0" y="0" width="1536" height="960" />
+    </state>
+    <state x="551" y="242" width="426" height="477" key="FileChooserDialogImpl/0.0.1536.960@0.0.1536.960" timestamp="1658018487562" />
+    <state width="1470" height="271" key="GridCell.Tab.0.bottom" timestamp="1658024313970">
+      <screen x="0" y="0" width="1536" height="960" />
+    </state>
+    <state width="1470" height="271" key="GridCell.Tab.0.bottom/0.0.1536.960@0.0.1536.960" timestamp="1658024313970" />
+    <state width="1470" height="271" key="GridCell.Tab.0.center" timestamp="1658024313970">
+      <screen x="0" y="0" width="1536" height="960" />
+    </state>
+    <state width="1470" height="271" key="GridCell.Tab.0.center/0.0.1536.960@0.0.1536.960" timestamp="1658024313970" />
+    <state width="1470" height="271" key="GridCell.Tab.0.left" timestamp="1658024313970">
+      <screen x="0" y="0" width="1536" height="960" />
+    </state>
+    <state width="1470" height="271" key="GridCell.Tab.0.left/0.0.1536.960@0.0.1536.960" timestamp="1658024313970" />
+    <state width="1470" height="271" key="GridCell.Tab.0.right" timestamp="1658024313970">
+      <screen x="0" y="0" width="1536" height="960" />
+    </state>
+    <state width="1470" height="271" key="GridCell.Tab.0.right/0.0.1536.960@0.0.1536.960" timestamp="1658024313970" />
+    <state x="501" y="192" width="526" height="577" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1658017831182">
+      <screen x="0" y="0" width="1536" height="960" />
+    </state>
+    <state x="501" y="192" width="526" height="577" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1536.960@0.0.1536.960" timestamp="1658017831182" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="291">
+          <caret line="53" selection-start-line="53" selection-end-line="53" />
+          <folding>
+            <element signature="e#0#23#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

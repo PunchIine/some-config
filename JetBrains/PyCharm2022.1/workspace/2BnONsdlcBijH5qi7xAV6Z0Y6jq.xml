@@ -1,0 +1,275 @@
+<project version="4">
+  <component name="BookmarksManager">
+    <option name="groups">
+      <GroupState>
+        <option name="name" value="CycleGAN-Music-Style-Transfer" />
+      </GroupState>
+    </option>
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="-1">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/tf2_main.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="280">
+              <caret line="11" column="40" selection-start-line="11" selection-start-column="40" selection-end-line="11" selection-end-column="40" />
+              <folding>
+                <element signature="e#0#15#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/tf2_module.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="3185">
+              <caret line="94" column="15" selection-start-line="94" selection-start-column="15" selection-end-line="94" selection-end-column="15" />
+              <folding>
+                <element signature="e#0#18#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/tf2_classifier.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="614">
+              <caret line="247" selection-start-line="247" selection-end-line="247" />
+              <folding>
+                <element signature="e#0#9#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/tf2_model.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="15925">
+              <caret line="464" selection-start-line="464" selection-end-line="464" />
+              <folding>
+                <element signature="e#0#9#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTypeUsageLocalSummary">
+    <fileType name="Markdown">
+      <summary usageCount="1" lastUsed="1657538350063" />
+    </fileType>
+    <fileType name="Python">
+      <summary usageCount="54" lastUsed="1658158718096" />
+    </fileType>
+  </component>
+  <component name="IdeDocumentHistory">
+    <changedPaths>
+      <option value="$PROJECT_DIR$/tf2_module.py" />
+      <option value="$PROJECT_DIR$/tf2_model.py" />
+      <option value="$USER_HOME$/transfer.py" />
+      <option value="$PROJECT_DIR$/tf2_main.py" />
+      <option value="$PROJECT_DIR$/tf2_classifier.py" />
+    </changedPaths>
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" />
+    <panes>
+      <pane id="ProjectPane" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="RunConfigurationStartHistory">
+    <history>
+      <element setting="Python.tf2_main" executorId="Run" />
+      <element setting="Python.tf2_main" executorId="Debug" />
+    </history>
+  </component>
+  <component name="TerminalArrangementManager">
+    <option name="myTabStates">
+      <TerminalTabState tabName="Local" currentWorkingDirectory="$PROJECT_DIR$" commandHistoryFileName="CycleGAN-Music-Style-Transfer-history" />
+    </option>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="27995000" />
+  </component>
+  <component name="ToolWindowManager">
+    <layout>
+      <window_info id="Bookmarks" order="0" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="1" visible="true" weight="0.15290621" />
+      <window_info id="Learn" order="2" />
+      <window_info id="Structure" order="3" side_tool="true" />
+      <window_info anchor="bottom" id="File Transfer" weight="0.32948294" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" show_stripe_button="false" weight="0.22057205" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.40033782" />
+      <window_info anchor="bottom" id="Python Packages" order="4" />
+      <window_info anchor="bottom" id="TODO" order="5" />
+      <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
+      <window_info anchor="bottom" id="Python Console" order="7" />
+      <window_info anchor="bottom" id="Problems View" order="8" visible="true" weight="0.033553354" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.50220025" />
+      <window_info anchor="bottom" id="Endpoints" order="10" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Services" order="11" />
+      <window_info anchor="right" id="Remote Host" order="0" />
+      <window_info anchor="right" id="Database" order="1" />
+      <window_info anchor="right" id="SciView" order="2" />
+      <window_info anchor="right" id="Notifications" order="3" weight="0.25" />
+    </layout>
+    <recentWindows>
+      <value>Project</value>
+      <value>Problems View</value>
+      <value>Run</value>
+      <value>Terminal</value>
+      <value>Debug</value>
+      <value>File Transfer</value>
+      <value>Notifications</value>
+    </recentWindows>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="254" y="165" width="802" height="670" key="#Deployment" timestamp="1657615486980">
+      <screen x="0" y="0" width="1536" height="960" />
+    </state>
+    <state x="254" y="165" width="802" height="670" key="#Deployment/0.0.1536.960@0.0.1536.960" timestamp="1657615486980" />
+    <state width="339" height="111" key="DebuggerActiveHint" timestamp="1657614467575">
+      <screen x="0" y="0" width="1536" height="960" />
+    </state>
+    <state width="339" height="111" key="DebuggerActiveHint/0.0.1536.960@0.0.1536.960" timestamp="1657614467575" />
+    <state x="551" y="242" width="629" height="477" key="FileChooserDialogImpl" timestamp="1658158736114">
+      <screen x="0" y="0" width="1536" height="960" />
+    </state>
+    <state x="551" y="242" width="629" height="477" key="FileChooserDialogImpl/0.0.1536.960@0.0.1536.960" timestamp="1658158736114" />
+    <state width="1470" height="172" key="GridCell.Tab.0.bottom" timestamp="1658145333517">
+      <screen x="0" y="0" width="1536" height="960" />
+    </state>
+    <state width="1470" height="172" key="GridCell.Tab.0.bottom/0.0.1536.960@0.0.1536.960" timestamp="1658145333517" />
+    <state width="1470" height="172" key="GridCell.Tab.0.center" timestamp="1658145333517">
+      <screen x="0" y="0" width="1536" height="960" />
+    </state>
+    <state width="1470" height="172" key="GridCell.Tab.0.center/0.0.1536.960@0.0.1536.960" timestamp="1658145333517" />
+    <state width="1470" height="172" key="GridCell.Tab.0.left" timestamp="1658145333517">
+      <screen x="0" y="0" width="1536" height="960" />
+    </state>
+    <state width="1470" height="172" key="GridCell.Tab.0.left/0.0.1536.960@0.0.1536.960" timestamp="1658145333517" />
+    <state width="1470" height="172" key="GridCell.Tab.0.right" timestamp="1658145333517">
+      <screen x="0" y="0" width="1536" height="960" />
+    </state>
+    <state width="1470" height="172" key="GridCell.Tab.0.right/0.0.1536.960@0.0.1536.960" timestamp="1658145333517" />
+    <state width="1470" height="327" key="GridCell.Tab.1.bottom" timestamp="1657621275070">
+      <screen x="0" y="0" width="1536" height="960" />
+    </state>
+    <state width="1470" height="327" key="GridCell.Tab.1.bottom/0.0.1536.960@0.0.1536.960" timestamp="1657621275070" />
+    <state width="1470" height="327" key="GridCell.Tab.1.center" timestamp="1657621275069">
+      <screen x="0" y="0" width="1536" height="960" />
+    </state>
+    <state width="1470" height="327" key="GridCell.Tab.1.center/0.0.1536.960@0.0.1536.960" timestamp="1657621275069" />
+    <state width="1470" height="327" key="GridCell.Tab.1.left" timestamp="1657621275069">
+      <screen x="0" y="0" width="1536" height="960" />
+    </state>
+    <state width="1470" height="327" key="GridCell.Tab.1.left/0.0.1536.960@0.0.1536.960" timestamp="1657621275069" />
+    <state width="1470" height="327" key="GridCell.Tab.1.right" timestamp="1657621275070">
+      <screen x="0" y="0" width="1536" height="960" />
+    </state>
+    <state width="1470" height="327" key="GridCell.Tab.1.right/0.0.1536.960@0.0.1536.960" timestamp="1657621275070" />
+    <state x="297" y="119" key="SettingsEditor" timestamp="1657541590727">
+      <screen x="0" y="0" width="1536" height="960" />
+    </state>
+    <state x="297" y="119" key="SettingsEditor/0.0.1536.960@0.0.1536.960" timestamp="1657541590727" />
+    <state x="773" y="18" width="753" height="932" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1658132031653">
+      <screen x="0" y="0" width="1536" height="960" />
+    </state>
+    <state x="773" y="18" width="753" height="932" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.1536.960@0.0.1536.960" timestamp="1658132031653" />
+    <state x="463" y="280" key="ftp.server.browser" timestamp="1657541583622">
+      <screen x="0" y="0" width="1536" height="960" />
+    </state>
+    <state x="463" y="280" key="ftp.server.browser/0.0.1536.960@0.0.1536.960" timestamp="1657541583622" />
+    <state x="631" y="378" width="266" height="204" key="publish.login" timestamp="1657619153165">
+      <screen x="0" y="0" width="1536" height="960" />
+    </state>
+    <state x="631" y="378" width="266" height="204" key="publish.login/0.0.1536.960@0.0.1536.960" timestamp="1657619153165" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]" />
+    </entry>
+    <entry file="file://$USER_HOME$/transfer.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1785">
+          <caret line="60" column="19" selection-start-line="60" selection-start-column="19" selection-end-line="60" selection-end-column="19" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tf2_main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="11" column="40" selection-start-line="11" selection-start-column="40" selection-end-line="11" selection-end-column="40" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tf2_module.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3185">
+          <caret line="94" column="15" selection-start-line="94" selection-start-column="15" selection-end-line="94" selection-end-column="15" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tf2_classifier.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="614">
+          <caret line="247" selection-start-line="247" selection-end-line="247" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tf2_model.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15925">
+          <caret line="464" selection-start-line="464" selection-end-line="464" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

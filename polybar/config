@@ -1,17 +1,17 @@
 [bar/i3wmthemer_bar]
 width = 100%
 height = 27
-radius = 5
+radius = 8
 fixed-center = true
 
 background = #1d1f21
 foreground = #c5c8c6
 
 line-size = 3
-line-color =
+line-color = #1d1f21
 
-border-size = 0
-border-color = 
+border-size = 1
+border-color = #1d1f21
 
 padding-left = 0
 padding-right = 2 
@@ -24,8 +24,8 @@ font-0 = "Source Code Pro Semibold:size=10;1"
 font-1 = "Font Awesome 5 Free:style=Solid:size=10;1"
 font-2 = "Font Awesome 5 Brands:size=10;1"
 
-modules-left = wlan cpu
-modules-center = i3 battery github
+modules-left = wlan bluetooth
+modules-center = i3 battery
 modules-right = temperature date powermenu
 
 tray-position = 
@@ -74,7 +74,7 @@ format-connected = <ramp-signal> <label-connected>
 format-connected-foreground = #1d1f21
 format-connected-background = #81a2be
 format-connected-padding = 2
-label-connected = %essid%
+label-connected ="%essid% %upspeed% %downspeed%"
 
 format-disconnected = damn
 
@@ -203,22 +203,33 @@ thermal-zone = 5
 
 hwmon-path = /sys/devices/platform/coretemp.0/hwmon/hwmon8/temp1_input
 
-base-temperature = 20
-warn-temperature = 60
+base-temperature = 40
+warn-temperature = 55
 
 format = <ramp> <label>
 format-warn = <ramp> <label-warn>
 
-label = " %temperature-c%"
 
-label-warn = " %temperature-c%"
+label = "%temperature-c%"
+
+
+label-warn = "%temperature-c%"
 label-warn-foreground = #f00
 
-ramp-0 = 
-ramp-1 = 
-ramp-2 = 
+ramp-0 = 
+ramp-1 = 
+ramp-2 = 
 ramp-foreground = #66
 
+[module/bluetooth]
+type = custom/script
+exec = ~/script/bluetooth.sh
+interval = 2
+click-left = exec blueberry
+click-right = /home/lazy/script//toggle_bluetooth.sh
+format-padding = 1
+format-background = #1d1f21
+format-foreground = #ffffff
 
 [settings]
 screenchange-reload = true

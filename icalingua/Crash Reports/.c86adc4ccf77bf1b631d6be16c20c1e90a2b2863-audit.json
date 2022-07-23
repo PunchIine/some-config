@@ -6,29 +6,149 @@
     "auditLog": "/home/lazy/.config/icalingua/Crash Reports/.c86adc4ccf77bf1b631d6be16c20c1e90a2b2863-audit.json",
     "files": [
         {
-            "date": 1656998582086,
-            "name": "/home/lazy/.config/icalingua/Crash Reports/error-report-2022-07-05-13.log",
-            "hash": "4adcb847bd9a4beba9bd8f2a14c2136f"
+            "date": 1657369136029,
+            "name": "/home/lazy/.config/icalingua/Crash Reports/error-report-2022-07-09-20.log",
+            "hash": "b70efcaaa418c307a55da54906d28802"
         },
         {
-            "date": 1657019010639,
-            "name": "/home/lazy/.config/icalingua/Crash Reports/error-report-2022-07-05-19.log",
-            "hash": "423adc6c59c0d985b2a50ca55534b34e"
+            "date": 1657436526603,
+            "name": "/home/lazy/.config/icalingua/Crash Reports/error-report-2022-07-10-15.log",
+            "hash": "b118946559d5c76a5c9db1fe99a8020b"
         },
         {
-            "date": 1657087693624,
-            "name": "/home/lazy/.config/icalingua/Crash Reports/error-report-2022-07-06-14.log",
-            "hash": "a9e4447e8ed314071a79e7f032245173"
+            "date": 1657451715971,
+            "name": "/home/lazy/.config/icalingua/Crash Reports/error-report-2022-07-10-19.log",
+            "hash": "a5451cad97f98dbd41e6ae91c5523e30"
         },
         {
-            "date": 1657109074906,
-            "name": "/home/lazy/.config/icalingua/Crash Reports/error-report-2022-07-06-20.log",
-            "hash": "d2eff55730f9b9dbede78753103354fb"
+            "date": 1657499349277,
+            "name": "/home/lazy/.config/icalingua/Crash Reports/error-report-2022-07-11-08.log",
+            "hash": "72dc5c2a01a50cb85b21a04111710858"
         },
         {
-            "date": 1657118294492,
-            "name": "/home/lazy/.config/icalingua/Crash Reports/error-report-2022-07-06-22.log",
-            "hash": "1d1b3fa3b95941237546ce232e8c6d60"
+            "date": 1657508081526,
+            "name": "/home/lazy/.config/icalingua/Crash Reports/error-report-2022-07-11-10.log",
+            "hash": "3c4040098ade3014fe38cd17d06e7bff"
+        },
+        {
+            "date": 1657542736763,
+            "name": "/home/lazy/.config/icalingua/Crash Reports/error-report-2022-07-11-20.log",
+            "hash": "7af9f71fcbbcd2ef17fc8503bf72f5b7"
+        },
+        {
+            "date": 1657609460668,
+            "name": "/home/lazy/.config/icalingua/Crash Reports/error-report-2022-07-12-15.log",
+            "hash": "62ced7e12d34fd5aa2df4e330a7aa457"
+        },
+        {
+            "date": 1657705921222,
+            "name": "/home/lazy/.config/icalingua/Crash Reports/error-report-2022-07-13-17.log",
+            "hash": "e9a5860186819d8c761461c5a87ffcd5"
+        },
+        {
+            "date": 1657713981948,
+            "name": "/home/lazy/.config/icalingua/Crash Reports/error-report-2022-07-13-20.log",
+            "hash": "34c5cec42817e8cbe8842e8ff0d00ad3"
+        },
+        {
+            "date": 1657816777531,
+            "name": "/home/lazy/.config/icalingua/Crash Reports/error-report-2022-07-15-00.log",
+            "hash": "3fcdf2faa56922de7cb524b4223fe068"
+        },
+        {
+            "date": 1657854173639,
+            "name": "/home/lazy/.config/icalingua/Crash Reports/error-report-2022-07-15-11.log",
+            "hash": "c94a3b797cd70922f8149826ac05919a"
+        },
+        {
+            "date": 1657950796195,
+            "name": "/home/lazy/.config/icalingua/Crash Reports/error-report-2022-07-16-13.log",
+            "hash": "871efd49337e8ce326c5c43e2948cd8f"
+        },
+        {
+            "date": 1657955286830,
+            "name": "/home/lazy/.config/icalingua/Crash Reports/error-report-2022-07-16-15.log",
+            "hash": "069d9330ef6bc3727e75f2f49916e8e2"
+        },
+        {
+            "date": 1657958778122,
+            "name": "/home/lazy/.config/icalingua/Crash Reports/error-report-2022-07-16-16.log",
+            "hash": "60fb33199bf011953aa36ccb25025b24"
+        },
+        {
+            "date": 1657979691504,
+            "name": "/home/lazy/.config/icalingua/Crash Reports/error-report-2022-07-16-21.log",
+            "hash": "0947d8b1ef34b80bc935a910a3cf538a"
+        },
+        {
+            "date": 1658021898069,
+            "name": "/home/lazy/.config/icalingua/Crash Reports/error-report-2022-07-17-09.log",
+            "hash": "01ed4315809bfd31f06f05bf62785103"
+        },
+        {
+            "date": 1658055005911,
+            "name": "/home/lazy/.config/icalingua/Crash Reports/error-report-2022-07-17-18.log",
+            "hash": "e63f4d13313c3bb8cb2d616421cab4ee"
+        },
+        {
+            "date": 1658061143418,
+            "name": "/home/lazy/.config/icalingua/Crash Reports/error-report-2022-07-17-20.log",
+            "hash": "04fa466fdab4efa80695a63ff0c82cda"
+        },
+        {
+            "date": 1658112394480,
+            "name": "/home/lazy/.config/icalingua/Crash Reports/error-report-2022-07-18-10.log",
+            "hash": "6a4093efeec3ed79bc0e9311e491e47e"
+        },
+        {
+            "date": 1658131007011,
+            "name": "/home/lazy/.config/icalingua/Crash Reports/error-report-2022-07-18-15.log",
+            "hash": "bd2db709eea1b36b303283772d8e7e39"
+        },
+        {
+            "date": 1658162180630,
+            "name": "/home/lazy/.config/icalingua/Crash Reports/error-report-2022-07-19-00.log",
+            "hash": "c6c7935f4aae819a85452d8e2bbc4016"
+        },
+        {
+            "date": 1658201956021,
+            "name": "/home/lazy/.config/icalingua/Crash Reports/error-report-2022-07-19-11.log",
+            "hash": "f7df927f2d41dce04747f044b23db4ed"
+        },
+        {
+            "date": 1658225474397,
+            "name": "/home/lazy/.config/icalingua/Crash Reports/error-report-2022-07-19-18.log",
+            "hash": "d7122f1871f3accb9659b129096ef9a4"
+        },
+        {
+            "date": 1658236856807,
+            "name": "/home/lazy/.config/icalingua/Crash Reports/error-report-2022-07-19-21.log",
+            "hash": "71fa485d3dfb67ddfb8c5674b25e58ec"
+        },
+        {
+            "date": 1658458729157,
+            "name": "/home/lazy/.config/icalingua/Crash Reports/error-report-2022-07-22-10.log",
+            "hash": "c5c28350c33103d3f6f541cab2f0e79f"
+        },
+        {
+            "date": 1658459776013,
+            "name": "/home/lazy/.config/icalingua/Crash Reports/error-report-2022-07-22-11.log",
+            "hash": "6e012fd9889b107000aab024b4d8d1b7"
+        },
+        {
+            "date": 1658474870909,
+            "name": "/home/lazy/.config/icalingua/Crash Reports/error-report-2022-07-22-15.log",
+            "hash": "7f5e3cb8d5e9891ae1b3247c95696d22"
+        },
+        {
+            "date": 1658503632030,
+            "name": "/home/lazy/.config/icalingua/Crash Reports/error-report-2022-07-22-23.log",
+            "hash": "dc98f9654e46a9ef8f8bff00a9e8a4c8"
+        },
+        {
+            "date": 1658545714348,
+            "name": "/home/lazy/.config/icalingua/Crash Reports/error-report-2022-07-23-11.log",
+            "hash": "1ec4122b9b11cf13ec8b81a80c30f453"
         }
     ]
 }

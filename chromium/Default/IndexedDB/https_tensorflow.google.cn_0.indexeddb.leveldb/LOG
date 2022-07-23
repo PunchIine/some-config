@@ -1,0 +1,6 @@
+2022/07/12-13:22:15.550 433c Creating DB /home/lazy/.config/chromium/Default/IndexedDB/https_tensorflow.google.cn_0.indexeddb.leveldb since it was missing.
+2022/07/12-13:22:15.557 433c Reusing MANIFEST /home/lazy/.config/chromium/Default/IndexedDB/https_tensorflow.google.cn_0.indexeddb.leveldb/MANIFEST-000001
+2022/07/12-17:43:39.234 158e5 Level-0 table #5: started
+2022/07/12-17:43:39.237 158e5 Level-0 table #5: 1884 bytes OK
+2022/07/12-17:43:39.240 158e5 Delete type=0 #3
+2022/07/12-17:43:39.241 158e5 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

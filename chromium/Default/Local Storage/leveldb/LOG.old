@@ -1,3 +1,45 @@
-2022/07/06-22:55:17.206 3 Reusing MANIFEST /home/lazy/.config/chromium/Default/Local Storage/leveldb/MANIFEST-000001
-2022/07/06-22:55:17.208 3 Recovering log #32
-2022/07/06-22:55:17.208 3 Reusing old log /home/lazy/.config/chromium/Default/Local Storage/leveldb/000032.log 
+2022/07/23-13:41:22.347 3 Reusing MANIFEST /home/lazy/.config/chromium/Default/Local Storage/leveldb/MANIFEST-000001
+2022/07/23-13:41:22.350 3 Recovering log #274
+2022/07/23-13:41:22.351 3 Reusing old log /home/lazy/.config/chromium/Default/Local Storage/leveldb/000274.log 
+2022/07/23-14:00:48.849 3 Level-0 table #278: started
+2022/07/23-14:00:48.854 3 Level-0 table #278: 19646 bytes OK
+2022/07/23-14:00:48.859 3 Delete type=0 #274
+2022/07/23-14:00:48.860 3 Compacting 4@0 + 1@1 files
+2022/07/23-14:00:48.903 3 Generated table #279@0: 1883 keys, 1941238 bytes
+2022/07/23-14:00:48.904 3 Compacted 4@0 + 1@1 files => 1941238 bytes
+2022/07/23-14:00:48.908 3 compacted to: files[ 0 1 1 0 0 0 0 ]
+2022/07/23-14:00:48.909 3 Delete type=2 #275
+2022/07/23-14:00:48.909 3 Delete type=2 #278
+2022/07/23-14:00:48.909 3 Delete type=2 #273
+2022/07/23-14:00:48.909 3 Delete type=2 #271
+2022/07/23-14:00:48.909 3 Delete type=2 #268
+2022/07/23-15:49:55.605 3c Level-0 table #281: started
+2022/07/23-15:49:55.612 3c Level-0 table #281: 14885 bytes OK
+2022/07/23-15:49:55.619 3c Delete type=0 #277
+2022/07/23-15:51:56.599 53 Level-0 table #283: started
+2022/07/23-15:51:56.606 53 Level-0 table #283: 120522 bytes OK
+2022/07/23-15:51:56.612 53 Delete type=0 #280
+2022/07/23-15:57:55.567 56 Level-0 table #285: started
+2022/07/23-15:57:55.575 56 Level-0 table #285: 120467 bytes OK
+2022/07/23-15:57:55.582 56 Delete type=0 #282
+2022/07/23-16:06:19.908 5e Level-0 table #287: started
+2022/07/23-16:06:19.914 5e Level-0 table #287: 19487 bytes OK
+2022/07/23-16:06:19.919 5e Delete type=0 #284
+2022/07/23-16:06:19.921 5e Compacting 4@0 + 1@1 files
+2022/07/23-16:06:19.955 5e Generated table #288@0: 1913 keys, 1940395 bytes
+2022/07/23-16:06:19.955 5e Compacted 4@0 + 1@1 files => 1940395 bytes
+2022/07/23-16:06:19.959 5e compacted to: files[ 0 1 1 0 0 0 0 ]
+2022/07/23-16:06:19.961 5e Delete type=2 #285
+2022/07/23-16:06:19.961 5e Delete type=2 #283
+2022/07/23-16:06:19.961 5e Delete type=2 #279
+2022/07/23-16:06:19.961 5e Delete type=2 #281
+2022/07/23-16:06:19.961 5e Delete type=2 #287
+2022/07/23-16:47:47.606 76 Level-0 table #290: started
+2022/07/23-16:47:47.613 76 Level-0 table #290: 19734 bytes OK
+2022/07/23-16:47:47.621 76 Delete type=0 #286
+2022/07/23-16:48:26.872 76 Level-0 table #292: started
+2022/07/23-16:48:26.881 76 Level-0 table #292: 120885 bytes OK
+2022/07/23-16:48:26.887 76 Delete type=0 #289
+2022/07/23-16:50:26.873 79 Level-0 table #294: started
+2022/07/23-16:50:26.883 79 Level-0 table #294: 118435 bytes OK
+2022/07/23-16:50:26.889 79 Delete type=0 #291

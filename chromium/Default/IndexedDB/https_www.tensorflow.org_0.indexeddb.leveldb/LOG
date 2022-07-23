@@ -1,0 +1,15 @@
+2022/07/17-07:54:25.474 5bb2 Reusing MANIFEST /home/lazy/.config/chromium/Default/IndexedDB/https_www.tensorflow.org_0.indexeddb.leveldb/MANIFEST-000001
+2022/07/17-07:54:25.474 5bb2 Recovering log #11
+2022/07/17-07:54:25.474 5bb2 Reusing old log /home/lazy/.config/chromium/Default/IndexedDB/https_www.tensorflow.org_0.indexeddb.leveldb/000011.log 
+2022/07/17-10:19:53.089 11def Level-0 table #16: started
+2022/07/17-10:19:53.093 11def Level-0 table #16: 4218 bytes OK
+2022/07/17-10:19:53.097 11def Delete type=0 #11
+2022/07/17-10:19:53.097 11def Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2022/07/17-10:19:53.097 11def Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x01\x01 \x01\x05\x00z\x00h\x00_\x00c\x00n\x00\x01\x13\x00l\x00a\x00n\x00g\x00u\x00a\x00g\x00e\x00_\x00p\x00r\x00e\x00f\x00e\x00r\x00e\x00n\x00c\x00e' @ 375 : 1
+2022/07/17-10:19:53.097 11def Compacting 1@1 + 1@2 files
+2022/07/17-10:19:53.101 11def Generated table #17@1: 31 keys, 832 bytes
+2022/07/17-10:19:53.101 11def Compacted 1@1 + 1@2 files => 832 bytes
+2022/07/17-10:19:53.105 11def compacted to: files[ 0 0 1 0 0 0 0 ]
+2022/07/17-10:19:53.105 11def Delete type=2 #16
+2022/07/17-10:19:53.105 11def Delete type=2 #13
+2022/07/17-10:19:53.106 11def Manual compaction at level-1 from '\x00\x01\x01 \x01\x05\x00z\x00h\x00_\x00c\x00n\x00\x01\x13\x00l\x00a\x00n\x00g\x00u\x00a\x00g\x00e\x00_\x00p\x00r\x00e\x00f\x00e\x00r\x00e\x00n\x00c\x00e' @ 375 : 1 .. (end); will stop at (end)

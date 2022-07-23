@@ -1,0 +1,8 @@
+[2022-07-07 21:16:03.233] [sharedprocess] [info] Starting worker process with pid 4630 (type: fileWatcher, window: 1).
+[2022-07-07 21:17:29.659] [sharedprocess] [info] Getting Manifest... opensumi.opensumi-default-themes
+[2022-07-07 21:17:30.471] [sharedprocess] [info] Installing extension: opensumi.opensumi-default-themes
+[2022-07-07 21:17:36.178] [sharedprocess] [info] Downloaded extension: opensumi.opensumi-default-themes /home/lazy/.config/Code - OSS/CachedExtensionVSIXs/opensumi.opensumi-default-themes-2.5.5
+[2022-07-07 21:17:36.306] [sharedprocess] [info] Extracted extension to /home/lazy/.vscode-oss/extensions/.be6ebdc3-57bb-4ccf-a600-cb48de1fb631: opensumi.opensumi-default-themes
+[2022-07-07 21:17:36.311] [sharedprocess] [info] Renamed to /home/lazy/.vscode-oss/extensions/opensumi.opensumi-default-themes-2.5.5
+[2022-07-07 21:17:36.313] [sharedprocess] [info] Extracting completed. opensumi.opensumi-default-themes
+[2022-07-07 21:17:36.315] [sharedprocess] [info] Extension installed successfully: opensumi.opensumi-default-themes

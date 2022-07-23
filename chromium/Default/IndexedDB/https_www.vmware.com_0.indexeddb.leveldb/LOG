@@ -1,0 +1,6 @@
+2022/07/23-15:54:18.782 b841 Creating DB /home/lazy/.config/chromium/Default/IndexedDB/https_www.vmware.com_0.indexeddb.leveldb since it was missing.
+2022/07/23-15:54:18.788 b841 Reusing MANIFEST /home/lazy/.config/chromium/Default/IndexedDB/https_www.vmware.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/07/23-15:57:06.514 b841 Level-0 table #5: started
+2022/07/23-15:57:06.518 b841 Level-0 table #5: 822 bytes OK
+2022/07/23-15:57:06.521 b841 Delete type=0 #3
+2022/07/23-15:57:06.522 b841 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

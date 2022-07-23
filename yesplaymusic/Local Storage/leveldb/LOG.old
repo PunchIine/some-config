@@ -1,0 +1,15 @@
+2022/07/21-22:08:12.798 131d Reusing MANIFEST /home/lazy/.config/yesplaymusic/Local Storage/leveldb/MANIFEST-000001
+2022/07/21-22:08:12.798 131d Recovering log #12
+2022/07/21-22:08:12.799 131d Reusing old log /home/lazy/.config/yesplaymusic/Local Storage/leveldb/000012.log 
+2022/07/21-22:11:13.029 14f0 Level-0 table #16: started
+2022/07/21-22:11:13.035 14f0 Level-0 table #16: 18465 bytes OK
+2022/07/21-22:11:13.039 14f0 Delete type=0 #12
+2022/07/21-22:11:13.039 14f0 Compacting 4@0 + 1@1 files
+2022/07/21-22:11:13.044 14f0 Generated table #17@0: 4 keys, 6043 bytes
+2022/07/21-22:11:13.044 14f0 Compacted 4@0 + 1@1 files => 6043 bytes
+2022/07/21-22:11:13.048 14f0 compacted to: files[ 0 1 1 0 0 0 0 ]
+2022/07/21-22:11:13.048 14f0 Delete type=2 #16
+2022/07/21-22:11:13.048 14f0 Delete type=2 #11
+2022/07/21-22:11:13.048 14f0 Delete type=2 #7
+2022/07/21-22:11:13.048 14f0 Delete type=2 #9
+2022/07/21-22:11:13.048 14f0 Delete type=2 #13

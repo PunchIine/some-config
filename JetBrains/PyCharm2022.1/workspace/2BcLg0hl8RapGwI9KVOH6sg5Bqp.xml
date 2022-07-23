@@ -1,0 +1,482 @@
+<project version="4">
+  <component name="BookmarksManager">
+    <option name="groups">
+      <GroupState>
+        <option name="name" value="Artistic-GANs" />
+      </GroupState>
+    </option>
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="-1">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/CycleGAN-Music-Style-Transfer/tf2_main.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="35">
+              <caret line="4" selection-start-line="4" selection-end-line="4" />
+              <folding>
+                <element signature="e#0#15#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/.conda/envs/Artical-GAN/lib/python3.8/site-packages/keras/engine/input_spec.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="8060">
+              <caret line="263" selection-start-line="263" selection-end-line="263" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/CycleGAN-Music-Style-Transfer/tf2_module.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="5110">
+              <caret line="149" column="22" selection-start-line="149" selection-start-column="22" selection-end-line="149" selection-end-column="22" />
+              <folding>
+                <element signature="e#0#18#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="210">
+              <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/.conda/envs/Artical-GAN/lib/python3.8/site-packages/keras/utils/traceback_utils.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1798">
+              <caret line="63" selection-start-line="63" selection-end-line="63" />
+              <folding>
+                <element signature="e#758#772#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/.conda/envs/Artical-GAN/lib/python3.8/site-packages/keras/engine/training.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="837">
+              <caret line="67" column="6" selection-start-line="67" selection-start-column="6" selection-end-line="67" selection-end-column="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTypeUsageLocalSummary">
+    <fileType name="GitIgnore file">
+      <summary usageCount="3" lastUsed="1657346960654" />
+    </fileType>
+    <fileType name="Markdown">
+      <summary usageCount="4" lastUsed="1657346960592" />
+    </fileType>
+    <fileType name="Python">
+      <summary usageCount="109" lastUsed="1657346960799" />
+    </fileType>
+    <fileType name="PythonStub">
+      <summary usageCount="1" lastUsed="1657334795048" />
+    </fileType>
+  </component>
+  <component name="IdeDocumentHistory">
+    <changedPaths>
+      <option value="$PROJECT_DIR$/music generation/main.py" />
+      <option value="$PROJECT_DIR$/conditional gan/conditional gan.py" />
+      <option value="$PROJECT_DIR$/Conditional GAN/conditional gan.py" />
+      <option value="$PROJECT_DIR$/CycleGAN-Music-Style-Transfer-Refactorization/tf2_model.py" />
+      <option value="$PROJECT_DIR$/CycleGAN-Music-Style-Transfer-Refactorization/tf2_classifier.py" />
+      <option value="$PROJECT_DIR$/CycleGAN-Music-Style-Transfer-Refactorization/tf2_main.py" />
+      <option value="$PROJECT_DIR$/CycleGAN-Music-Style-Transfer-Refactorization/tf2_module.py" />
+    </changedPaths>
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" />
+    <panes>
+      <pane id="ProjectPane" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="RunConfigurationStartHistory">
+    <history>
+      <element setting="Python.tf2_main" executorId="Run" />
+      <element setting="Python.tf2_main" executorId="Debug" />
+      <element setting="Python.tf2_model" executorId="Debug" />
+      <element setting="Python.tf2_classifier" executorId="Debug" />
+      <element setting="Python.write_midi" executorId="Run" />
+    </history>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="TerminalArrangementManager">
+    <option name="myTabStates">
+      <TerminalTabState tabName="Local" commandHistoryFileName="Artistic-GANs-history1" />
+    </option>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="17054000" />
+  </component>
+  <component name="TodoView" selected-index="1">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <layout>
+      <window_info id="Pull Requests" weight="0.32992074" />
+      <window_info id="Commit" weight="0.32992074" />
+      <window_info id="Bookmarks" order="0" side_tool="true" />
+      <window_info id="Learn" order="1" />
+      <window_info id="Structure" order="2" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="3" visible="true" weight="0.27047557" />
+      <window_info anchor="bottom" id="Version Control" order="0" weight="0.36827663" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3298573" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.1615991" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.348536" />
+      <window_info anchor="bottom" id="Python Packages" order="4" />
+      <window_info anchor="bottom" id="TODO" order="5" weight="0.34598458" />
+      <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
+      <window_info anchor="bottom" id="Python Console" order="7" />
+      <window_info anchor="bottom" id="Problems View" order="8" weight="0.303491" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.3298573" />
+      <window_info anchor="bottom" id="Endpoints" order="10" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Services" order="11" weight="0.3298573" />
+      <window_info anchor="right" id="Database" order="0" />
+      <window_info anchor="right" id="SciView" order="1" />
+      <window_info anchor="right" id="Notifications" order="2" weight="0.25" />
+    </layout>
+    <recentWindows>
+      <value>Project</value>
+      <value>Commit</value>
+      <value>Pull Requests</value>
+      <value>Run</value>
+      <value>Debug</value>
+      <value>Problems View</value>
+      <value>TODO</value>
+      <value>Version Control</value>
+      <value>Services</value>
+      <value>Terminal</value>
+      <value>Find</value>
+    </recentWindows>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="374" y="121" width="779" height="716" key="#Notifications" timestamp="1657201342354">
+      <screen x="0" y="0" width="1536" height="960" />
+    </state>
+    <state x="374" y="121" width="779" height="716" key="#Notifications/0.0.1536.960@0.0.1536.960" timestamp="1657201342354" />
+    <state x="286" y="250" width="956" height="459" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1657201145214">
+      <screen x="0" y="0" width="1536" height="960" />
+    </state>
+    <state x="286" y="250" width="956" height="459" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.960@0.0.1536.960" timestamp="1657201145214" />
+    <state width="328" height="83" key="DebuggerActiveHint" timestamp="1657336380884">
+      <screen x="0" y="0" width="1536" height="960" />
+    </state>
+    <state width="328" height="83" key="DebuggerActiveHint/0.0.1536.960@0.0.1536.960" timestamp="1657336380884" />
+    <state x="551" y="242" width="426" height="477" key="FileChooserDialogImpl" timestamp="1657346991879">
+      <screen x="0" y="0" width="1536" height="960" />
+    </state>
+    <state x="551" y="242" width="426" height="477" key="FileChooserDialogImpl/0.0.1536.960@0.0.1536.960" timestamp="1657346991879" />
+    <state x="551" y="1322" width="426" height="477" key="FileChooserDialogImpl/0.1080.1536.960/0.0.1920.1080@0.1080.1536.960" timestamp="1657346743387" />
+    <state width="1470" height="211" key="GridCell.Tab.0.bottom" timestamp="1657337718110">
+      <screen x="0" y="0" width="1536" height="960" />
+    </state>
+    <state width="1470" height="211" key="GridCell.Tab.0.bottom/0.0.1536.960@0.0.1536.960" timestamp="1657337718110" />
+    <state width="1470" height="211" key="GridCell.Tab.0.center" timestamp="1657337718110">
+      <screen x="0" y="0" width="1536" height="960" />
+    </state>
+    <state width="1470" height="211" key="GridCell.Tab.0.center/0.0.1536.960@0.0.1536.960" timestamp="1657337718110" />
+    <state width="1470" height="211" key="GridCell.Tab.0.left" timestamp="1657337718110">
+      <screen x="0" y="0" width="1536" height="960" />
+    </state>
+    <state width="1470" height="211" key="GridCell.Tab.0.left/0.0.1536.960@0.0.1536.960" timestamp="1657337718110" />
+    <state width="1470" height="211" key="GridCell.Tab.0.right" timestamp="1657337718110">
+      <screen x="0" y="0" width="1536" height="960" />
+    </state>
+    <state width="1470" height="211" key="GridCell.Tab.0.right/0.0.1536.960@0.0.1536.960" timestamp="1657337718110" />
+    <state width="1470" height="281" key="GridCell.Tab.1.bottom" timestamp="1657337613078">
+      <screen x="0" y="0" width="1536" height="960" />
+    </state>
+    <state width="1470" height="281" key="GridCell.Tab.1.bottom/0.0.1536.960@0.0.1536.960" timestamp="1657337613078" />
+    <state width="1470" height="281" key="GridCell.Tab.1.center" timestamp="1657337613078">
+      <screen x="0" y="0" width="1536" height="960" />
+    </state>
+    <state width="1470" height="281" key="GridCell.Tab.1.center/0.0.1536.960@0.0.1536.960" timestamp="1657337613078" />
+    <state width="1470" height="281" key="GridCell.Tab.1.left" timestamp="1657337613078">
+      <screen x="0" y="0" width="1536" height="960" />
+    </state>
+    <state width="1470" height="281" key="GridCell.Tab.1.left/0.0.1536.960@0.0.1536.960" timestamp="1657337613078" />
+    <state width="1470" height="281" key="GridCell.Tab.1.right" timestamp="1657337613078">
+      <screen x="0" y="0" width="1536" height="960" />
+    </state>
+    <state width="1470" height="281" key="GridCell.Tab.1.right/0.0.1536.960@0.0.1536.960" timestamp="1657337613078" />
+    <state x="114" y="0" width="1414" height="960" key="SettingsEditor" timestamp="1657294984156">
+      <screen x="0" y="0" width="1536" height="960" />
+    </state>
+    <state x="114" y="0" width="1414" height="960" key="SettingsEditor/0.0.1536.960@0.0.1536.960" timestamp="1657294984156" />
+    <state x="523" y="399" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1657247603203">
+      <screen x="0" y="0" width="1536" height="960" />
+    </state>
+    <state x="523" y="399" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.960@0.0.1536.960" timestamp="1657247603203" />
+    <state x="773" y="1098" width="753" height="932" key="dock-window-1" timestamp="1657346756058">
+      <screen x="0" y="1080" width="1536" height="960" />
+    </state>
+    <state x="773" y="1098" width="753" height="932" key="dock-window-1/0.1080.1536.960/0.0.1920.1080@0.1080.1536.960" timestamp="1657346756058" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/music generation/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="4" column="30" selection-start-line="4" selection-start-column="30" selection-end-line="4" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/music generation/Transform/Transform.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="4" column="11" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Original GAN/original gan.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CycleGAN-Music-Style-Transfer/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]" />
+    </entry>
+    <entry file="file://$USER_HOME$/.conda/envs/Artical-GAN/lib/python3.8/argparse.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="1766" column="8" selection-start-line="1766" selection-start-column="8" selection-end-line="1766" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Conditional GAN/conditional gan.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+          <folding>
+            <element signature="e#0#12#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.conda/envs/Artical-GAN/lib/python3.8/glob.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="117">
+          <caret line="20" selection-start-line="20" selection-end-line="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CycleGAN-Music-Style-Transfer/write_midi.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="7" column="9" selection-start-line="7" selection-start-column="9" selection-end-line="7" selection-end-column="9" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.conda/envs/Artical-GAN/lib/python3.8/site-packages/tensorflow/python/util/nest.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="208">
+          <caret line="452" selection-start-line="452" selection-end-line="452" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.conda/envs/Artical-GAN/lib/python3.8/site-packages/keras/engine/base_layer.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="942" selection-start-line="942" selection-end-line="942" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CycleGAN-Music-Style-Transfer/tf2_classifier.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="152" selection-start-line="152" selection-end-line="152" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CycleGAN-Music-Style-Transfer/tf2_utils.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1384">
+          <caret line="67" column="4" selection-start-line="67" selection-start-column="4" selection-end-line="67" selection-end-column="4" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.conda/envs/Artical-GAN/lib/python3.8/collections/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="217">
+          <caret line="404" selection-start-line="404" selection-end-line="404" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.conda/envs/Artical-GAN/lib/python3.8/site-packages/tensorflow/python/eager/context.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="117">
+          <caret line="2218" selection-start-line="2218" selection-end-line="2218" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.conda/envs/Artical-GAN/lib/python3.8/site-packages/keras/utils/version_utils.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="158">
+          <caret line="61" selection-start-line="61" selection-end-line="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.conda/envs/Artical-GAN/lib/python3.8/site-packages/keras/engine/input_layer.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="55">
+          <caret line="359" selection-start-line="359" selection-end-line="359" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.conda/envs/Artical-GAN/lib/python3.8/site-packages/tensorflow/python/util/traceback_utils.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="179">
+          <caret line="47" selection-start-line="47" selection-end-line="47" />
+          <folding>
+            <element signature="e#763#772#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/typing.pyi">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="310">
+          <caret line="712" column="8" selection-start-line="712" selection-start-column="8" selection-end-line="712" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CycleGAN-Music-Style-Transfer/tf2_model.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="644">
+          <caret line="272" selection-start-line="272" selection-end-line="272" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CycleGAN-Music-Style-Transfer/tf2_main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="35">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]" />
+    </entry>
+    <entry file="file://$USER_HOME$/.conda/envs/Artical-GAN/lib/python3.8/site-packages/keras/engine/input_spec.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="8060">
+          <caret line="263" selection-start-line="263" selection-end-line="263" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CycleGAN-Music-Style-Transfer/tf2_module.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5110">
+          <caret line="149" column="22" selection-start-line="149" selection-start-column="22" selection-end-line="149" selection-end-column="22" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.conda/envs/Artical-GAN/lib/python3.8/site-packages/keras/utils/traceback_utils.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1798">
+          <caret line="63" selection-start-line="63" selection-end-line="63" />
+          <folding>
+            <element signature="e#758#772#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.conda/envs/Artical-GAN/lib/python3.8/site-packages/keras/engine/training.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="837">
+          <caret line="67" column="6" selection-start-line="67" selection-start-column="6" selection-end-line="67" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

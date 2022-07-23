@@ -1,0 +1,30 @@
+2022/07/18-18:14:14.879 889e Reusing MANIFEST /home/lazy/.config/chromium/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/07/18-18:14:14.879 889e Recovering log #49
+2022/07/18-18:14:14.890 889e Reusing old log /home/lazy/.config/chromium/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/000049.log 
+2022/07/18-19:28:15.352 889e Level-0 table #54: started
+2022/07/18-19:28:15.368 889e Level-0 table #54: 1496372 bytes OK
+2022/07/18-19:28:15.372 889e Delete type=0 #49
+2022/07/18-19:30:05.346 eb4c Compacting 1@1 + 1@2 files
+2022/07/18-19:30:05.358 eb4c Generated table #55@1: 1136 keys, 52944 bytes
+2022/07/18-19:30:05.358 eb4c Compacted 1@1 + 1@2 files => 52944 bytes
+2022/07/18-19:30:05.361 eb4c compacted to: files[ 0 0 1 0 0 0 0 ]
+2022/07/18-19:30:05.361 eb4c Delete type=2 #54
+2022/07/18-19:30:05.361 eb4c Delete type=2 #51
+2022/07/18-21:03:01.353 16f33 Level-0 table #57: started
+2022/07/18-21:03:01.368 16f33 Level-0 table #57: 1552513 bytes OK
+2022/07/18-21:03:01.373 16f33 Delete type=0 #53
+2022/07/18-21:05:02.350 17e71 Compacting 1@1 + 1@2 files
+2022/07/18-21:05:02.360 17e71 Generated table #58@1: 2164 keys, 79206 bytes
+2022/07/18-21:05:02.360 17e71 Compacted 1@1 + 1@2 files => 79206 bytes
+2022/07/18-21:05:02.363 17e71 compacted to: files[ 0 0 1 0 0 0 0 ]
+2022/07/18-21:05:02.363 17e71 Delete type=2 #55
+2022/07/18-21:05:02.363 17e71 Delete type=2 #57
+2022/07/18-22:37:29.354 1a669 Level-0 table #60: started
+2022/07/18-22:37:29.369 1a669 Level-0 table #60: 1527184 bytes OK
+2022/07/18-22:37:29.372 1a669 Delete type=0 #56
+2022/07/18-22:39:30.351 1a261 Compacting 1@1 + 1@2 files
+2022/07/18-22:39:30.363 1a261 Generated table #61@1: 3197 keys, 105473 bytes
+2022/07/18-22:39:30.363 1a261 Compacted 1@1 + 1@2 files => 105473 bytes
+2022/07/18-22:39:30.368 1a261 compacted to: files[ 0 0 1 0 0 0 0 ]
+2022/07/18-22:39:30.368 1a261 Delete type=2 #60
+2022/07/18-22:39:30.368 1a261 Delete type=2 #58

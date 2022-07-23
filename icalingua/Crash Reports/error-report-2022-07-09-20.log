@@ -1,0 +1,2 @@
+{"message":{"errname":"Error","errMsg":"Request failed with status code 400","e":"Error: Request failed with status code 400"},"level":"error","service":"eqq-service"}
+{"message":{"errname":-1,"errMsg":"msg not exists","e":"[object Object]"},"level":"error","service":"eqq-service"}

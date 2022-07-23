@@ -1,0 +1,18 @@
+<application>
+  <component name="ShownTips">
+    <option name="shownTips">
+      <map>
+        <entry key="BreakpointIntentions.html" value="1657200539906" />
+        <entry key="CamelPrefixesInNavigationPopups.html" value="1658225771589" />
+        <entry key="Compare.html" value="1657528982760" />
+        <entry key="CtrlShiftIForLookup.html" value="1657422340973" />
+        <entry key="Escape.html" value="1657619109935" />
+        <entry key="HorizontalScrolling.html" value="1657294893363" />
+        <entry key="InspectionsWidget.html" value="1658011698106" />
+        <entry key="RecentChanges.html" value="1657715489050" />
+        <entry key="ScopesInTODO.html" value="1658112229836" />
+        <entry key="db_tip_forget_cached_schemas.html" value="1658402431575" />
+      </map>
+    </option>
+  </component>
+</application>

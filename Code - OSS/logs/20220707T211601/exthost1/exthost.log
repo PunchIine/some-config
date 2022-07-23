@@ -1,0 +1,21 @@
+[2022-07-07 21:16:02.954] [exthost] [info] Extension host with pid 4551 started
+[2022-07-07 21:16:02.954] [exthost] [info] Skipping acquiring lock for /home/lazy/.config/Code - OSS/User/workspaceStorage/4a8f3b555fed5074dfdcdf8399c16ba0.
+[2022-07-07 21:16:03.006] [exthost] [info] ExtensionService#_doActivateExtension vscode.html-language-features, startup: false, activationEvent: 'onLanguage:html'
+[2022-07-07 21:16:03.028] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2022-07-07 21:16:03.030] [exthost] [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+[2022-07-07 21:16:03.032] [exthost] [info] ExtensionService#_doActivateExtension vscode.ipynb, startup: true, activationEvent: '*'
+[2022-07-07 21:16:03.036] [exthost] [info] ExtensionService#_doActivateExtension formulahendry.auto-close-tag, startup: true, activationEvent: '*'
+[2022-07-07 21:16:03.037] [exthost] [info] ExtensionService#_doActivateExtension formulahendry.auto-rename-tag, startup: true, activationEvent: '*'
+[2022-07-07 21:16:03.050] [exthost] [info] ExtensionService#_doActivateExtension yandeu.five-server, startup: true, activationEvent: '*'
+[2022-07-07 21:16:03.138] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+[2022-07-07 21:16:03.173] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2022-07-07 21:16:03.349] [exthost] [info] Eager extensions activated
+[2022-07-07 21:16:03.377] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+[2022-07-07 21:16:03.387] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2022-07-07 21:16:03.390] [exthost] [info] ExtensionService#_doActivateExtension Equinusocio.vsc-material-theme, startup: false, activationEvent: 'onStartupFinished'
+[2022-07-07 21:16:03.395] [exthost] [info] ExtensionService#_doActivateExtension equinusocio.vsc-material-theme-icons, startup: false, activationEvent: 'onStartupFinished'
+[2022-07-07 21:17:43.351] [exthost] [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:jsonc'
+[2022-07-07 21:17:43.354] [exthost] [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+[2022-07-07 21:17:43.367] [exthost] [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+[2022-07-07 21:18:18.335] [exthost] [info] Extension host terminating: received terminate message from renderer
+[2022-07-07 21:18:18.356] [exthost] [info] Extension host with pid 4551 exiting with code 0

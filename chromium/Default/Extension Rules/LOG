@@ -1,2 +1,3 @@
-2022/07/06-13:37:27.316 c86 Creating DB /home/lazy/.config/chromium/Default/Extension Rules since it was missing.
-2022/07/06-13:37:27.326 c86 Reusing MANIFEST /home/lazy/.config/chromium/Default/Extension Rules/MANIFEST-000001
+2022/07/20-19:05:01.624 7344 Reusing MANIFEST /home/lazy/.config/chromium/Default/Extension Rules/MANIFEST-000001
+2022/07/20-19:05:01.624 7344 Recovering log #3
+2022/07/20-19:05:01.624 7344 Reusing old log /home/lazy/.config/chromium/Default/Extension Rules/000003.log 

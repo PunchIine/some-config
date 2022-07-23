@@ -1,0 +1,20 @@
+[2022-07-08 19:58:19.231] [exthost] [info] Extension host with pid 2955 started
+[2022-07-08 19:58:19.231] [exthost] [info] Skipping acquiring lock for /home/lazy/.config/Code - OSS/User/workspaceStorage/4a8f3b555fed5074dfdcdf8399c16ba0.
+[2022-07-08 19:58:19.297] [exthost] [info] ExtensionService#_doActivateExtension vscode.html-language-features, startup: false, activationEvent: 'onLanguage:html'
+[2022-07-08 19:58:19.328] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2022-07-08 19:58:19.333] [exthost] [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+[2022-07-08 19:58:19.336] [exthost] [info] ExtensionService#_doActivateExtension vscode.ipynb, startup: true, activationEvent: '*'
+[2022-07-08 19:58:19.343] [exthost] [info] ExtensionService#_doActivateExtension formulahendry.auto-close-tag, startup: true, activationEvent: '*'
+[2022-07-08 19:58:19.348] [exthost] [info] ExtensionService#_doActivateExtension formulahendry.auto-rename-tag, startup: true, activationEvent: '*'
+[2022-07-08 19:58:19.369] [exthost] [info] ExtensionService#_doActivateExtension yandeu.five-server, startup: true, activationEvent: '*'
+[2022-07-08 19:58:19.420] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+[2022-07-08 19:58:19.451] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2022-07-08 19:58:19.660] [exthost] [info] Eager extensions activated
+[2022-07-08 19:58:19.818] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+[2022-07-08 19:58:19.827] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2022-07-08 19:58:19.831] [exthost] [info] ExtensionService#_doActivateExtension Equinusocio.vsc-material-theme, startup: false, activationEvent: 'onStartupFinished'
+[2022-07-08 19:58:19.843] [exthost] [info] ExtensionService#_doActivateExtension equinusocio.vsc-material-theme-icons, startup: false, activationEvent: 'onStartupFinished'
+[2022-07-08 20:00:31.458] [exthost] [info] Extension host terminating: received terminate message from renderer
+[2022-07-08 20:00:31.483] [exthost] [error] Error: read ECONNRESET
+    at Pipe.onStreamRead (node:internal/stream_base_commons:220:20)
+[2022-07-08 20:00:31.484] [exthost] [info] Extension host with pid 2955 exiting with code 0

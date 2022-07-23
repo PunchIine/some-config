@@ -1,0 +1,100 @@
+<application>
+  <component name="RecentProjectsManager">
+    <option name="additionalInfo">
+      <map>
+        <entry key="$USER_HOME$/PycharmProjects/CycleGAN-Music-Style-Transfer">
+          <value>
+            <RecentProjectMetaInfo frameTitle="CycleGAN-Music-Style-Transfer – README.md" projectWorkspaceId="2Bh8NDyP0dTrlymSwrRsNyJ3OiH">
+              <option name="activationTimestamp" value="1657346940686" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="PY-221.5921.27" />
+              <option name="buildTimestamp" value="1655845404113" />
+              <frame x="10" y="18" width="1516" height="932" />
+              <option name="productionCode" value="PY" />
+              <option name="projectOpenTimestamp" value="1657346915876" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/PycharmProjects/Pluralistic-Inpainting">
+          <value>
+            <RecentProjectMetaInfo frameTitle="Pluralistic-Inpainting – image_folder.py" projectWorkspaceId="2BtBWUEeVETcZHrLK58amZ37Auj">
+              <option name="activationTimestamp" value="1658011734802" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="PY-221.5921.27" />
+              <option name="buildTimestamp" value="1655845397145" />
+              <frame x="10" y="18" width="1516" height="932" />
+              <option name="productionCode" value="PY" />
+              <option name="projectOpenTimestamp" value="1657715536750" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/PycharmProjects/Artistic-GANs">
+          <value>
+            <RecentProjectMetaInfo frameTitle="Artistic-GANs – ~/PycharmProjects/Artistic-GANs/README.md" projectWorkspaceId="2C2rtaTjYXJoyEmvElzs9ho20XX">
+              <option name="activationTimestamp" value="1658011759377" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="PY-221.5921.27" />
+              <option name="buildTimestamp" value="1655845386141" />
+              <frame x="10" y="18" width="1516" height="932" />
+              <option name="productionCode" value="PY" />
+              <option name="projectOpenTimestamp" value="1658011735203" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/PycharmProjects/try">
+          <value>
+            <RecentProjectMetaInfo frameTitle="try" projectWorkspaceId="2C2zvx2wJNhZg1nkHefGV7La6dH">
+              <option name="activationTimestamp" value="1658024287903" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="PY-221.5921.27" />
+              <option name="buildTimestamp" value="1655845386141" />
+              <frame x="10" y="18" width="1516" height="932" />
+              <option name="productionCode" value="PY" />
+              <option name="projectOpenTimestamp" value="1658018489785" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/PycharmProjects/Artistic-GANs/CycleGAN-Music-Style-Transfer">
+          <value>
+            <RecentProjectMetaInfo frameTitle="CycleGAN-Music-Style-Transfer – tf2_classifier.py" projectWorkspaceId="2BnONsdlcBijH5qi7xAV6Z0Y6jq">
+              <option name="activationTimestamp" value="1658158738289" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="PY-221.5921.27" />
+              <option name="buildTimestamp" value="1655845386141" />
+              <frame x="10" y="18" width="1516" height="932" />
+              <option name="productionCode" value="PY" />
+              <option name="projectOpenTimestamp" value="1658024314130" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Pluralistic-Inpainting">
+          <value>
+            <RecentProjectMetaInfo frameTitle="Pluralistic-Inpainting" projectWorkspaceId="2C7fr2TcbJLAPKm3cAZAShbSgnx">
+              <option name="activationTimestamp" value="1658402451394" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="PY-221.5921.27" />
+              <option name="buildTimestamp" value="1655845411232" />
+              <frame x="10" y="18" width="1516" height="932" />
+              <option name="productionCode" value="PY" />
+              <option name="projectOpenTimestamp" value="1658158739447" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Yolov5-deepsort-driverDistracted-driving-behavior-detection">
+          <value>
+            <RecentProjectMetaInfo frameTitle="Yolov5-deepsort-driverDistracted-driving-behavior-detection – mydetect.py" opened="true" projectWorkspaceId="262ubpc0kLJaYiu2GJswhyca2DJ">
+              <option name="activationTimestamp" value="1658465652323" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="PY-221.5921.27" />
+              <option name="buildTimestamp" value="1655845399559" />
+              <frame x="10" y="18" width="1516" height="932" />
+              <option name="productionCode" value="PY" />
+              <option name="projectOpenTimestamp" value="1658402451804" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="lastProjectLocation" value="$USER_HOME$/PycharmProjects" />
+  </component>
+</application>

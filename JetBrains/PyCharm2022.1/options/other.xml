@@ -1,8 +1,74 @@
 <application>
+  <component name="DynamicPluginEnabler">
+    <trackers>
+      <map>
+        <entry key="262ubpc0kLJaYiu2GJswhyca2DJ">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="2BcLKNwicMxbG5Sds1V59Y2U2Dv">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="2BcLg0hl8RapGwI9KVOH6sg5Bqp">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="2Bh8NDyP0dTrlymSwrRsNyJ3OiH">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="2Bh8QYuhW1KX4umvDFjse5W0AAR">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="2BnONsdlcBijH5qi7xAV6Z0Y6jq">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="2BtBWUEeVETcZHrLK58amZ37Auj">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="2C2rtaTjYXJoyEmvElzs9ho20XX">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="2C2zvx2wJNhZg1nkHefGV7La6dH">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="2C7fr2TcbJLAPKm3cAZAShbSgnx">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+      </map>
+    </trackers>
+  </component>
+  <component name="NotRoamableUiSettings">
+    <option name="fontFace" value="JetBrainsMono Nerd Font Mono" />
+    <option name="fontScale" value="1.0" />
+    <option name="fontSize" value="14.0" />
+  </component>
   <component name="PropertyService"><![CDATA[{
   "keyToString": {
     "CWM_LOGGING_VERSION": "1",
+    "ExpandBeforeRunStepsPanel": "true",
+    "LayoutCode.codeCleanup": "true",
+    "LayoutCode.optimizeImports": "false",
+    "MarketplacePluginsSearchHistory": "rainbow\nrain\nacti\nac",
     "NonModalCommitCustomization.IsApplied": "true",
+    "PluginConfigurable.selectionTab": "1",
     "PyCharm.InitialConfiguration": "true",
     "PyCharm.InitialConfiguration.V2": "true",
     "PyCharm.InitialConfiguration.V3": "true",
@@ -10,15 +76,42 @@
     "PyCharm.InitialConfiguration.V5": "true",
     "PyCharm.InitialConfiguration.V6": "true",
     "PyCharm.InitialConfiguration.V7": "true",
+    "RunOnceActivity.se.text.search": "true",
+    "appcds.runOnSecondStart": "PY-221.5921.27-a99fb7c240a0328e3172b0b7d526e2acc34ce2116e242f67318a297774f54f99",
     "ask.about.ctrl.y.shortcut.v2": "true",
     "bundled.plugins.list.saved.version": "PY-221.5921.27",
+    "com.intellij.history.integration.ui.views.FileHistoryDialog.0": "444",
+    "com.intellij.history.integration.ui.views.FileHistoryDialog.1": "800",
     "evlsprt3.221": "24",
     "experimentalFeature.terminal.shell.command.handling": "false",
+    "file.gist.reindex.count": "86",
     "fileTypeChangedCounter": "2",
+    "got.it.tooltip.cwm.invitation.notification": "1",
+    "got.it.tooltip.js.debugger.terminal.start.debugger.from.url": "1",
+    "got.it.tooltip.reader.mode.got.it": "1",
+    "gotit.previous.run": "PY-221.5921.27",
+    "ide.memory.adjusted": "true",
+    "ideavim.statistics.timestamp": "1658402452366",
     "input.method.disabler.muted": "true",
-    "tasks.pass.word.conversion.enforced": "true"
+    "last_opened_file_path": "/home/lazy/PycharmProjects/Artistic-GANs",
+    "python.app.engine.sdk.path": "",
+    "registry.to.advanced.settings.migration.build": "PY-221.5921.27",
+    "tasks.pass.word.conversion.enforced": "true",
+    "ts.lib.d.ts.version": "4.6.3"
   },
   "keyToStringList": {
+    "file.chooser.recent.files": [
+      "/home/lazy/Yolov5-deepsort-driverDistracted-driving-behavior-detection",
+      "/home/lazy/trans.py",
+      "/home/lazy/sim_lang.py",
+      "/home/lazy/Pluralistic-Inpainting",
+      "/home/lazy/transfer.py",
+      "/home/lazy/PycharmProjects/Artistic-GANs/CycleGAN-Music-Style-Transfer",
+      "/home/lazy/PycharmProjects/try",
+      "/home/lazy/PycharmProjects/Artistic-GANs",
+      "/home/lazy/PycharmProjects/Pluralistic-Inpainting",
+      "/home/lazy/PycharmProjects/CycleGAN-Music-Style-Transfer"
+    ],
     "fileTypeDetectors": [
       "com.intellij.ide.scratch.ScratchFileServiceImpl$Detector",
       "com.intellij.javascript.debugger.sourcemap.SourceMapFileType$MyFileTypeDetector",
@@ -28,4 +121,12 @@
     ]
   }
 }]]></component>
+  <component name="TerminalCommandHistoryManager">
+    <command-history-files>
+      <command-history-file filename="try-history" project-path="$USER_HOME$/PycharmProjects/try" last-access-time="1658017905321" />
+      <command-history-file filename="CycleGAN-Music-Style-Transfer-history" project-path="$USER_HOME$/PycharmProjects/Artistic-GANs/CycleGAN-Music-Style-Transfer" last-access-time="1658020640531" />
+      <command-history-file filename="Artistic-GANs-history1" project-path="$USER_HOME$/PycharmProjects/Artistic-GANs" last-access-time="1657247619220" />
+      <command-history-file filename="Pluralistic-Inpainting-history" project-path="$USER_HOME$/Pluralistic-Inpainting" last-access-time="1658226279290" />
+    </command-history-files>
+  </component>
 </application>

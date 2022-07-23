@@ -1,2 +1,3 @@
-2022/07/06-20:54:20.551 8c36 Creating DB /home/lazy/.config/Code - OSS/Local Storage/leveldb since it was missing.
-2022/07/06-20:54:20.627 8c36 Reusing MANIFEST /home/lazy/.config/Code - OSS/Local Storage/leveldb/MANIFEST-000001
+2022/07/09-16:35:02.317 d13d Reusing MANIFEST /home/lazy/.config/Code - OSS/Local Storage/leveldb/MANIFEST-000001
+2022/07/09-16:35:02.318 d13d Recovering log #3
+2022/07/09-16:35:02.318 d13d Reusing old log /home/lazy/.config/Code - OSS/Local Storage/leveldb/000003.log 

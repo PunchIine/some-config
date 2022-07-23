@@ -1,0 +1,26 @@
+2022/07/18-20:07:53.012 12920 Creating DB /home/lazy/.config/chromium/Default/IndexedDB/https_www.dropbox.com_0.indexeddb.leveldb since it was missing.
+2022/07/18-20:07:53.020 12920 Reusing MANIFEST /home/lazy/.config/chromium/Default/IndexedDB/https_www.dropbox.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/07/18-20:24:09.498 12920 Level-0 table #5: started
+2022/07/18-20:24:09.514 12920 Level-0 table #5: 921360 bytes OK
+2022/07/18-20:24:09.518 12920 Delete type=0 #3
+2022/07/18-21:04:23.926 16f31 Level-0 table #7: started
+2022/07/18-21:04:23.940 16f31 Level-0 table #7: 938428 bytes OK
+2022/07/18-21:04:23.944 16f31 Delete type=0 #4
+2022/07/18-21:04:26.234 18060 Compacting 1@1 + 1@2 files
+2022/07/18-21:04:26.252 18060 Generated table #8@1: 157 keys, 14921 bytes
+2022/07/18-21:04:26.252 18060 Compacted 1@1 + 1@2 files => 14921 bytes
+2022/07/18-21:04:26.255 18060 compacted to: files[ 0 0 1 0 0 0 0 ]
+2022/07/18-21:04:26.255 18060 Delete type=2 #7
+2022/07/18-21:04:26.255 18060 Delete type=2 #5
+2022/07/18-22:56:27.654 1a1b2 Level-0 table #10: started
+2022/07/18-22:56:27.664 1a1b2 Level-0 table #10: 251668 bytes OK
+2022/07/18-22:56:27.668 1a1b2 Delete type=0 #6
+2022/07/18-22:56:27.669 1a1b2 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2022/07/18-22:56:27.669 1a1b2 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x02\x04\x1f\x01\x0a\x00a\x00m\x00p\x00_\x00c\x00l\x00i\x00e\x00n\x00t\x00\x04\x03\x01\x0a\x00a\x00m\x00p\x00_\x00c\x00l\x00i\x00e\x00n\x00t\x04\x01\x01\x0e\x00c\x00l\x00i\x00e\x00n\x00t\x00_\x00v\x00e\x00r\x00s\x00i\x00o\x00n\x04\x01\x01\x02\x002\x001' @ 18864 : 1
+2022/07/18-22:56:27.669 1a1b2 Compacting 1@1 + 1@2 files
+2022/07/18-22:56:27.675 1a1b2 Generated table #11@1: 85 keys, 4882 bytes
+2022/07/18-22:56:27.675 1a1b2 Compacted 1@1 + 1@2 files => 4882 bytes
+2022/07/18-22:56:27.678 1a1b2 compacted to: files[ 0 0 1 0 0 0 0 ]
+2022/07/18-22:56:27.678 1a1b2 Delete type=2 #8
+2022/07/18-22:56:27.678 1a1b2 Delete type=2 #10
+2022/07/18-22:56:27.678 1a1b2 Manual compaction at level-1 from '\x00\x02\x04\x1f\x01\x0a\x00a\x00m\x00p\x00_\x00c\x00l\x00i\x00e\x00n\x00t\x00\x04\x03\x01\x0a\x00a\x00m\x00p\x00_\x00c\x00l\x00i\x00e\x00n\x00t\x04\x01\x01\x0e\x00c\x00l\x00i\x00e\x00n\x00t\x00_\x00v\x00e\x00r\x00s\x00i\x00o\x00n\x04\x01\x01\x02\x002\x001' @ 18864 : 1 .. (end); will stop at (end)

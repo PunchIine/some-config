@@ -1,0 +1,47 @@
+{
+   "checksum": "e65ca6aa98d78d2f5e1e4888a6ed7394",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13301559205781705",
+            "guid": "9ce0319b-b5b1-418a-a288-41ef0056e04f",
+            "id": "5",
+            "name": "v2rayA",
+            "type": "url",
+            "url": "http://127.0.0.1:2017/"
+         }, {
+            "date_added": "13301657171615651",
+            "guid": "3d327861-1e44-43eb-95e5-235359c474c2",
+            "id": "7",
+            "name": "Cheatsheet | Font Awesome",
+            "type": "url",
+            "url": "https://fontawesome.com/v5/cheatsheet?from=io"
+         } ],
+         "date_added": "13301559173110891",
+         "date_modified": "13301657171615651",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Bookmarks bar",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13301559173110894",
+         "date_modified": "0",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "Other bookmarks",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13301559173110896",
+         "date_modified": "0",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Mobile bookmarks",
+         "type": "folder"
+      }
+   },
+   "version": 1
+}

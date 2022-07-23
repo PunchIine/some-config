@@ -1,0 +1,6 @@
+2022/07/19-11:38:12.197 b289 Creating DB /home/lazy/.config/chromium/Default/IndexedDB/https_mail.google.com_0.indexeddb.leveldb since it was missing.
+2022/07/19-11:38:12.205 b289 Reusing MANIFEST /home/lazy/.config/chromium/Default/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/07/19-12:02:02.077 d7de Level-0 table #5: started
+2022/07/19-12:02:02.088 d7de Level-0 table #5: 483086 bytes OK
+2022/07/19-12:02:02.092 d7de Delete type=0 #3
+2022/07/19-12:02:02.092 d7de Manual compaction at level-0 from (begin) .. (end); will stop at (end)

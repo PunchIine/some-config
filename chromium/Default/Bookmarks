@@ -1,5 +1,5 @@
 {
-   "checksum": "40d3c69b1a70695ed1c73c08edb13f66",
+   "checksum": "8c9b0c95daa5b8f282451a5ab4c40308",
    "roots": {
       "bookmark_bar": {
          "children": [ {
@@ -9,9 +9,23 @@
             "name": "v2rayA",
             "type": "url",
             "url": "http://127.0.0.1:2017/"
+         }, {
+            "date_added": "13301657171615651",
+            "guid": "3d327861-1e44-43eb-95e5-235359c474c2",
+            "id": "7",
+            "name": "Cheatsheet | Font Awesome",
+            "type": "url",
+            "url": "https://fontawesome.com/v5/cheatsheet?from=io"
+         }, {
+            "date_added": "13302802706900965",
+            "guid": "81f0367f-58d4-48d2-89cb-47a8caf72021",
+            "id": "9",
+            "name": "【学习笔记】生成模型——变分自编码器",
+            "type": "url",
+            "url": "http://www.gwylab.com/note-vae.html"
          } ],
          "date_added": "13301559173110891",
-         "date_modified": "13301559205781705",
+         "date_modified": "13302802706900965",
          "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
          "id": "1",
          "name": "Bookmarks bar",

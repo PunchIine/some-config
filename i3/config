@@ -285,4 +285,3 @@ bindsym $mod+c exec chromium
 
 exec xrandr --dpi 120
 
-exec border pixel 2

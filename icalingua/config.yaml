@@ -13,7 +13,7 @@ account:
   protocol: 5
   autologin: true
   onlineStatus: 11
-priority: 3
+priority: 4
 aria2:
   enabled: false
   host: 127.0.0.1
@@ -28,11 +28,11 @@ winSize:
   max: false
 socketIo: ""
 adapter: oicq
-fetchHistoryOnChatOpen: false
-lastUsedStickerType: remote
+fetchHistoryOnChatOpen: true
+lastUsedStickerType: face
 keyToSendMessage: Enter
-theme: auto
+theme: light
 updateCheck: false
 disableBridgeVersionCheck: false
 shortcuts: {}
-zoomFactor: 100
+zoomFactor: 125

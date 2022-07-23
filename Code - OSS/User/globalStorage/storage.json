@@ -591,8 +591,7 @@
                 "items": [
                     {
                         "id": "workbench.action.navigateBack",
-                        "label": "&&Back",
-                        "enabled": false
+                        "label": "&&Back"
                     },
                     {
                         "id": "workbench.action.navigateForward",
@@ -1461,37 +1460,38 @@
         }
     },
     "theme": "vs-dark",
-    "themeBackground": "#1e1e1e",
+    "themeBackground": "#202224",
     "windowSplash": {
         "baseTheme": "vs-dark",
         "colorInfo": {
-            "foreground": "#cccccc",
-            "background": "#1e1e1e",
-            "editorBackground": "#1e1e1e",
+            "foreground": "#d7dbde",
+            "background": "#202224",
+            "editorBackground": "#202224",
             "titleBarBackground": "#3c3c3c",
-            "activityBarBackground": "#333333",
-            "sideBarBackground": "#252526",
-            "statusBarBackground": "#007acc",
-            "statusBarNoFolderBackground": "#68217a"
+            "activityBarBackground": "#35393d",
+            "sideBarBackground": "#2c3033",
+            "statusBarBackground": "#252729",
+            "statusBarNoFolderBackground": "#43484d"
         },
         "layoutInfo": {
             "sideBarSide": "left",
             "editorPartMinWidth": 220,
-            "titleBarHeight": 0,
+            "titleBarHeight": 30,
             "activityBarWidth": 48,
-            "sideBarWidth": 0,
+            "sideBarWidth": 187,
             "statusBarHeight": 22,
             "windowBorder": false
         }
     },
     "windowsState": {
         "lastActiveWindow": {
-            "backupPath": "/home/lazy/.config/Code - OSS/Backups/1657112061148",
+            "folder": "file:///home/lazy/VSCODE/front-end",
+            "backupPath": "/home/lazy/.config/Code - OSS/Backups/7deefd70466398ee19e824cff76a114a",
             "uiState": {
                 "mode": 1,
-                "x": 774,
-                "y": 38,
-                "width": 751,
+                "x": 10,
+                "y": 39,
+                "width": 1516,
                 "height": 911
             }
         },
